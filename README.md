@@ -38,7 +38,7 @@ Click on the green "Code" button. You should see the following:
 
 ![Menu that shows up after the Code button is clicked](https://github.com/DigitalGardeningCollective/front-porch/blob/main/docs/images/codespace%20cta.png)
 
-Click on the "Create codespace on main" button. This will start up a new codespace for you that's connected to the "main" branch of your front porch. Any changes made here will be seen by people who visit your front porch.
+Click on the "Create codespace on main" button. This will start up a new codespace for you that's connected to the "main" branch of your front porch. More info about this is in Step A.7.
 
 You should see a page that looks like this:
 
@@ -89,7 +89,41 @@ For reference, you can see how I edited [mine](https://github.com/joshwingreene/
 Location of the Static Folder
 - `root/quartz/static`
 
-### Step A.7 - Go to Step 3
+### Step A.7 - Commit your changes
+
+In order for people to see the changes that you have made to the "main" branch of your front porch, you will need to "stage" and "commit" those changes.
+
+In the following image, you will see that I made an edit and that there's a (1) on top of one of the tabs on the left-hand side. There's a yellow arrow that points to the (1).
+
+![made-an-edit](https://github.com/DigitalGardeningCollective/front-porch/blob/main/docs/images/made-an-edit.png)
+
+If you want a single command that takes care of both steps for you, you can use the following command from Quartz: ```npx quartz sync```.
+
+If you want to do these steps manually, here are the instructions based on the above example:
+
+1. Click on the tab on the left-hand side that has a (1) on top of it. This tab will open. As you can see below:
+
+![source-control-tab-is-opened](https://github.com/DigitalGardeningCollective/front-porch/blob/main/docs/images/source-control-tab-is-opened.png)
+
+2. A "+" icon will show up if you hover over the area between "Changes" and the (1) that is below the green "Commit" button. If you click that "+", it will stage everything that is listed in the Changes area. Once that happens, you can enter a relevant message, click commit, and click sync.
+
+What you will see after the changes are staged:
+
+![after-changes-are-staged](https://github.com/DigitalGardeningCollective/front-porch/blob/main/docs/images/after-changes-are-staged.png)
+
+After a message is entered for the commit:
+
+![before-commit](https://github.com/DigitalGardeningCollective/front-porch/blob/main/docs/images/before-commit.png)
+
+After "Commit" is clicked (**Note** - I used a different example, but the process is still the same.):
+
+![after-commit](https://github.com/DigitalGardeningCollective/front-porch/blob/main/docs/images/after-commit.png)
+
+After "Sync Changes" is clicked:
+
+![after-sync.png](https://github.com/DigitalGardeningCollective/front-porch/blob/main/docs/images/after-sync.png)
+
+### Step A.8 - Go to Step 3
 
 Scroll down until you see it
 
@@ -135,8 +169,6 @@ Location of the Static Folder
 > 1. Head to “Settings” tab of your forked repository on GitHub and in the sidebar, click “Pages”. Under “Source”, select “GitHub Actions”.
 
 > 2. Commit these changes by doing `npx quartz sync`. This should deploy your site to <github-username>.github.io/<repository-name>.
-
-Whenever you want to update your site, you just need to run `npx quartz sync` after saving your changes.
 
 Reference: [Hosting](https://quartz.jzhao.xyz/hosting#github-pages)
 - The deploy.yml file was added for you.

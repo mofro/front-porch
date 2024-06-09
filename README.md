@@ -60,34 +60,51 @@ Here are two images that show this command in action:
 
 ![npm install is executed](https://github.com/DigitalGardeningCollective/front-porch/blob/main/docs/images/npm%20install%20is%20executed.png)
 
-### Step A.3 - Spin up a preview of your front porch
+### Step A.3 Disclaimer -  I am not a lawyer, and the information provided is not legal advice. Please consult a qualified legal professional for legal advice specific to your situation.
 
-In order to see a preview of your front porch, you need to use the following command:
-
-```npx quartz build --serve```
-
-![quartz serve command is executed](https://github.com/DigitalGardeningCollective/front-porch/blob/main/docs/images/quartz%20serve%20command%20is%20executed.png)
-
-Once done, hold down the (Ctrl - Windows/Command - Mac) key on your keyboard and click on the ```https://localhost:8080``` link that's shown in your codespace's terminal. A live preview of your front porch will open in a new tab.
-
-Here's what your terminal will look like when you access the preview (files will be different):
-
-![how the terminal will look when the preview is being accessed](https://github.com/DigitalGardeningCollective/front-porch/blob/main/docs/images/live%20front%20porch%20being%20accessed.png)
-
-### Step A.4 Disclaimer -  I am not a lawyer, and the information provided is not legal advice. Please consult a qualified legal professional for legal advice specific to your situation.
-
-### Step A.4 - Navigate to the LICENSE.txt file in the your codespace's file explorer and add the following line to the top of the file:
+### Step A.3 - Navigate to the LICENSE.txt file in the your codespace's file explorer and add the following line to the top of the file:
 
 All Rights Reserved.
 
-### Step A.5 - Navigate to the quartz.config.ts file and update lines 18 to 60 accordingly
+### Step A.4 - Navigate to the quartz.config.ts file and update lines 18 to 60 accordingly
 
 For reference, you can see how I edited [mine](https://github.com/joshwingreene/joshwingreene.github.io/blob/main/quartz.config.ts).
 
-### Step A.6 - Update the images in the static folder
+### Step A.5 - Update the images in the static folder
 
 Location of the Static Folder
 - `root/quartz/static`
+
+### Step A.6 - Host your front porch on GitHub so you and the world are able to see all the changes that you make
+
+*Follow the following steps from Quartz to host your front porch on github*
+
+> 1. Head to “Settings” tab of your forked repository on GitHub and in the sidebar, click “Pages”. Under “Source”, select “GitHub Actions”.
+
+Reference: [Hosting](https://quartz.jzhao.xyz/hosting#github-pages)
+- The deploy.yml file was added for you.
+
+Once done, any "commits" that you submit/push to GitHub will cause your changes to me pushed to your hosted front porch.
+
+For reference, your site will be located at the following url:
+
+https://<github-username>.github.io
+
+For example, for me, this is...
+
+https://joshwingreene.github.io (which points to joshwingreene.com)
+
+More info about committing can be found in the next step.
+
+You can view the status of your submissions/pushes by going to the "Actions" tab on your front porch repo on Github. 
+
+Here's the url for the Actions tab:
+
+https://github.com/<github-username>/<repo-name>/actions
+
+For example, for me, this is...
+
+https://github.com/joshwingreene/joshwingreene.github.io/actions
 
 ### Step A.7 - Commit your changes
 
@@ -123,7 +140,7 @@ After "Sync Changes" is clicked:
 
 ![after-sync.png](https://github.com/DigitalGardeningCollective/front-porch/blob/main/docs/images/after-sync.png)
 
-### Step A.8 - Go to Step 3
+### Step A.8 - Go to Step 4
 
 Scroll down until you see it
 
@@ -160,11 +177,7 @@ All Rights Reserved.
 Location of the Static Folder
 - `root/quartz/static`
 
-### Step B.7 - Go to Step 3
-
----
-
-### Step 3 - Follow the following steps from Quartz to host your front porch on github
+### Step B.7 - Follow the following steps from Quartz to host your front porch on GitHub
 
 > 1. Head to “Settings” tab of your forked repository on GitHub and in the sidebar, click “Pages”. Under “Source”, select “GitHub Actions”.
 
@@ -172,6 +185,10 @@ Location of the Static Folder
 
 Reference: [Hosting](https://quartz.jzhao.xyz/hosting#github-pages)
 - The deploy.yml file was added for you.
+
+### Step B.8 - Go to Step 4
+
+---
 
 ### Step 4 - Add a custom domain
 

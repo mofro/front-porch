@@ -88,7 +88,7 @@ Once done, any "commits" that you submit/push to GitHub will cause your changes 
 
 For reference, your site will be located at the following url:
 
-https://<github-username>.github.io
+`https://<github-username>.github.io`
 
 For example, for me, this is...
 
@@ -100,7 +100,7 @@ You can view the status of your submissions/pushes by going to the "Actions" tab
 
 Here's the url for the Actions tab:
 
-https://github.com/<github-username>/<repo-name>/actions
+`https://github.com/<github-username>/<repo-name>/actions`
 
 For example, for me, this is...
 

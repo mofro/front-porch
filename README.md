@@ -140,7 +140,7 @@ After "Sync Changes" is clicked:
 
 ![after-sync.png](https://github.com/DigitalGardeningCollective/front-porch/blob/main/docs/images/after-sync.png)
 
-### Step A.8 - Go to Step 4
+### Step A.8 - Go to Step 3
 
 Scroll down until you see it
 
@@ -186,17 +186,17 @@ Location of the Static Folder
 Reference: [Hosting](https://quartz.jzhao.xyz/hosting#github-pages)
 - The deploy.yml file was added for you.
 
-### Step B.8 - Go to Step 4
+### Step B.8 - Go to Step 3
 
 ---
 
-### Step 4 - Add a custom domain
+### Step 3 - Add a custom domain
 
 Follow the steps that Quartz provides:
 
 [Custom Domains](https://quartz.jzhao.xyz/hosting#custom-domain)
 
-### Step 5 - Enjoy!
+### Step 4 - Enjoy!
 
 ---
 

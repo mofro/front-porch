@@ -206,6 +206,8 @@ Follow the steps that Quartz provides:
 
 Front Porch supports all of the frontmatter fields that Quartz uses.
 
+For example, 'last-modified' field should be added to notes/essays that have been modified. Additionally, the 'date' field specifies the date that a note/essay was initially published.
+
 Here are the frontmatter fields that are unique to Front Porch:
 
 | Frontmatter Field | Property Type | Description | 

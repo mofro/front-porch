@@ -110,24 +110,23 @@ export const aboutPageLayout: PageLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
+    Component.Breadcrumbs(),
     Component.Title(),
-    Component.Subtitle(),
-    Component.ReadingTime(),
-    Component.Row({
-      hasSpacedBetweenJustification: true,
-      components: [
-        Component.TagList({ removeTopMargin: true }),
-        Component.Dates()
-      ],
-      classes: ["half-top-margin"]
-    }),
-    Component.CoverImage()
+    Component.ContentMeta(),
+    Component.TagList(),
   ],
   left: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Row({
+      components: [Component.Darkmode(), Component.Search()],
+      hasSpacedBetweenJustification: false,
+    }),
+    Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.Graph(),
     Component.Backlinks(),
   ],
 }
@@ -135,11 +134,40 @@ export const defaultContentPageLayout: PageLayout = {
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
+    Component.Breadcrumbs(),
     Component.Title(),
-    Component.Subtitle()
+    Component.ContentMeta(),
   ],
   left: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Row({
+      components: [Component.Darkmode(), Component.Search()],
+      hasSpacedBetweenJustification: false,
+    }),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
+}
+
+// components for tag pages (pages that list all pages with a given tag)
+export const defaultTagPageLayout: PageLayout = {
+  beforeBody: [
+    Component.Breadcrumbs(),
+    Component.Title(),
+    Component.ContentMeta(),
+  ],
+  left: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Row({
+      components: [Component.Darkmode(), Component.Search()],
+      hasSpacedBetweenJustification: false,
+    }),
+    Component.DesktopOnly(Component.Explorer()),
+  ],
+  right: [
+    Component.Graph(),
+    Component.Backlinks(),
+  ],
 }

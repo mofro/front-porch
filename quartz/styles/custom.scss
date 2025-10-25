@@ -1,111 +1,158 @@
+// Override responsive breakpoint to 1400px (default is 1510px)
+$fullPageWidth: 1400px;
+
 @use "./base.scss";
 
 // put your custom CSS here!
 
-.article-and-author-img {
-    article {
-        flex: 2;
-    }
+// Spacing for Darkmode + Search row
+.left.sidebar .row {
+  gap: 1rem; // Adjust this value (0.5rem, 1rem, 1.5rem, etc.)
+}
 
-    img {
-        @media only screen and (min-width: 768px) {
-          flex: 1;
-        }
+// Hide anchor-only headers (used for backward-compatible section links)
+h3.anchor-only,
+h2.anchor-only {
+  position: absolute;
+  height: 0;
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+  line-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  pointer-events: none;
+}
+
+// Character card styling for transcluded Fellowship members
+.transclude {
+  border: 2px solid var(--gold, #d4af37);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  background: linear-gradient(
+    135deg,
+    rgba(244, 228, 193, 0.3) 0%,
+    rgba(232, 213, 183, 0.2) 100%
+  );
+  box-shadow: 
+    0 2px 8px rgba(0, 0, 0, 0.1),
+    inset 0 1px 0 rgba(255, 255, 255, 0.3);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 
+      0 4px 12px rgba(0, 0, 0, 0.15),
+      inset 0 1px 0 rgba(255, 255, 255, 0.3);
+  }
+
+  // Style the character name heading
+  h1:first-child {
+    color: var(--deep-red, #8b1a1a);
+    border-bottom: 2px solid var(--gold, #d4af37);
+    padding-bottom: 0.5rem;
+    margin-top: 0;
+  }
+
+  // Style strong labels (Race, Class, etc.)
+  strong {
+    color: var(--deep-red, #8b1a1a);
+    font-weight: 600;
+  }
+}
+
+// Asterion Medieval Fantasy Theme
+// To use: Copy contents to quartz/styles/custom.scss
+
+// Color scheme: earthy tones with gold accents
+:root {
+  // Medieval color palette
+  --parchment: #f4e4c1;
+  --aged-paper: #e8d5b7;
+  --ink: #2c2416;
+  --gold: #d4af37;
+  --deep-red: #8b1a1a;
+  --forest-green: #2d5016;
+}
+
+// Override default colors with medieval palette
+.light {
+  --light: var(--parchment);
+  --lightgray: var(--aged-paper);
+  --darkgray: var(--ink);
+  --secondary: var(--deep-red);
+  --tertiary: var(--gold);
+}
+
+// Decorative borders for main content
+.article-container {
+  border: 3px double var(--gold);
+  padding: 2rem;
+  background: var(--parchment);
+}
+
+// Medieval-style headings
+h1 {
+  font-family: 'Cinzel', 'Times New Roman', serif;
+  color: var(--deep-red);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-bottom: 3px double var(--gold);
+  padding-bottom: 0.5rem;
+}
+
+h2 {
+  font-family: 'Cinzel', serif;
+  color: var(--forest-green);
+  border-left: 4px solid var(--gold);
+  padding-left: 1rem;
+}
+
+// Illuminated initial letter (drop cap)
+.article-content > p:first-of-type::first-letter {
+  font-size: 3.5em;
+  font-family: 'Cinzel', serif;
+  color: var(--deep-red);
+  float: left;
+  line-height: 0.8;
+  margin: 0.1em 0.1em 0 0;
+}
+
+// Ornate links
+a {
+  color: var(--deep-red);
+  text-decoration: none;
+  border-bottom: 1px solid var(--gold);
+  transition: all 0.3s ease;
   
-        @media only screen and (max-width: 767px) {
-          width: 100%;
-        }
-    }
+  &:hover {
+    color: var(--gold);
+    border-bottom: 2px solid var(--gold);
+  }
 }
 
-.full-top-margin {
-    margin-top: 1rem;
+// Scroll-like effect for session logs
+.session-log {
+  background: linear-gradient(to bottom, 
+    var(--aged-paper) 0%, 
+    var(--parchment) 10%, 
+    var(--parchment) 90%, 
+    var(--aged-paper) 100%);
+  border-radius: 8px;
+  box-shadow: 
+    0 0 10px rgba(0, 0, 0, 0.1),
+    inset 0 0 50px rgba(0, 0, 0, 0.05);
+  padding: 2rem;
 }
 
-.half-top-margin {
-    margin-top: 0.5rem;
-}
-
-.responsive {
-    @media only screen and (max-width: 767) {
-        flex-direction: column;
-
-        .author-img {
-            margin: 0;
-        }
-
-        #garden-info {
-            text-align: center;
-
-            .social-icons {
-                justify-content: center;
-            }
-
-            h4 {
-                margin-top: 1rem;
-            }
-        }
-
-        .showcase-img {
-            flex: 1;
-            box-sizing: border-box;
-            width: 100%;
-            margin-bottom: 0;
-        }
-
-        .showcase-info {
-            padding: 1rem;
-
-            h3, a {
-                margin: 0;
-            }
-
-            p {
-                margin: 1rem 0;
-            }
-        }
-
-        #contributions-div {
-            margin-top: 1rem;
-            width: 100%;
-
-            @media only screen and (max-width: 415) {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 1rem;
-
-                #contributors {
-                    margin-right: 0;
-                    width: 95%;
-                }
-
-                #cta {
-                    width: 100%;
-
-                    p {
-                        width: 95%;
-                    }
-                }
-            }
-
-        }
-    }
-    @media only screen and (min-width: 768) {
-        flex-direction: row;
-
-        #garden-info {
-            margin-left: 15px;
-
-            h4 {
-                margin-top: 0;
-            }
-        }
-
-        .author-img {
-            margin-top: 1.2rem;
-            margin-left: .5rem;
-            width: 250px;
-            height: 250px;
-        }
-    }
+// Wax seal effect for tags
+.tag {
+  background: var(--deep-red);
+  color: var(--parchment);
+  border-radius: 50%;
+  padding: 0.3rem 0.8rem;
+  font-size: 0.85rem;
+  font-weight: bold;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }

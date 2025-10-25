@@ -1,0 +1,70 @@
+// Minimalist Modern Theme
+// To use: Copy contents to quartz/styles/custom.scss
+
+:root {
+  // Clean, modern palette
+  --pure-white: #ffffff;
+  --soft-gray: #f8f9fa;
+  --slate: #64748b;
+  --charcoal: #1e293b;
+  --accent-blue: #3b82f6;
+}
+
+.light {
+  --light: var(--pure-white);
+  --lightgray: var(--soft-gray);
+  --gray: var(--slate);
+  --darkgray: var(--charcoal);
+  --secondary: var(--accent-blue);
+  --highlight: rgba(59, 130, 246, 0.1);
+}
+
+// Clean typography
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  line-height: 1.7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+// Minimal card design
+.card {
+  background: var(--pure-white);
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s ease;
+  
+  &:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+}
+
+// Clean link styling
+a {
+  color: var(--accent-blue);
+  text-decoration: none;
+  transition: opacity 0.2s;
+  
+  &:hover {
+    opacity: 0.8;
+  }
+}
+
+// Subtle borders
+hr {
+  border: none;
+  height: 1px;
+  background: var(--lightgray);
+}
+
+// Floating navigation
+nav {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--soft-gray);
+}

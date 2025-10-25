@@ -1,0 +1,56 @@
+// Dark Academia Theme
+// To use: Copy contents to quartz/styles/custom.scss
+
+:root {
+  // Dark academia color palette
+  --charcoal: #1a1a1a;
+  --deep-brown: #3d2f2f;
+  --antique-gold: #c9a961;
+  --library-green: #3a4f3f;
+  --aged-cream: #f5ebe0;
+}
+
+.dark {
+  --light: var(--charcoal);
+  --lightgray: var(--deep-brown);
+  --dark: var(--aged-cream);
+  --secondary: var(--antique-gold);
+  --tertiary: var(--library-green);
+}
+
+// Scholarly headings
+h1, h2, h3 {
+  font-family: 'Playfair Display', 'Georgia', serif;
+  font-weight: 700;
+  color: var(--antique-gold);
+}
+
+h1.title {
+  color: var(--translucent-red);
+}
+
+// Footnote-style links
+a {
+  color: var(--antique-gold);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--antique-gold);
+  
+  &:hover {
+    border-bottom: 2px solid var(--antique-gold);
+  }
+}
+
+// Library card catalog aesthetic
+.card {
+  background: var(--deep-brown);
+  border: 1px solid var(--antique-gold);
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+// Book spine effect for sidebar
+.sidebar {
+  background: linear-gradient(to right, 
+    var(--deep-brown) 0%, 
+    var(--charcoal) 5%);
+  border-right: 3px solid var(--antique-gold);
+}

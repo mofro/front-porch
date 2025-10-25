@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"corin-node","type":"file","file":"Dramatis Personae.md","subpath":"#Corin Quickpath","x":640,"y":-240,"width":300,"height":200,"color":"3"},
+		{"id":"baron-node","type":"file","file":"Dramatis Personae.md","subpath":"#Baron Matthias of Overland","x":-680,"y":175,"width":300,"height":150,"color":"2"},
+		{"id":"smoking-hills-node","type":"file","file":"Places of Asterion.md","subpath":"#Smoking Hills","x":-300,"y":425,"width":300,"height":150,"color":"6"},
+		{"id":"treasure-node","type":"file","file":"Magical-Items.md","subpath":"#Aramaina's Treasure","x":0,"y":-40,"width":300,"height":200,"color":"4"},
+		{"id":"forest-stone-node","type":"file","file":"Places of Asterion.md","subpath":"#Forest of Stone","x":640,"y":425,"width":300,"height":150,"color":"6"},
+		{"id":"aramaina-node","type":"file","file":"Dramatis Personae.md","subpath":"#Aramaina Faelandaerl","x":-450,"y":-240,"width":300,"height":200,"color":"5"},
+		{"id":"veil-node","type":"file","file":"Magical-Items.md","subpath":"#Veil of Elphame","x":-80,"y":-520,"width":300,"height":200,"color":"1"},
+		{"id":"nierynwen-node","type":"file","file":"Dramatis Personae.md","subpath":"#Nierynwen Malbrinryl","x":490,"y":-520,"width":300,"height":150,"color":"5"},
+		{"id":"quest-summary","type":"text","text":"# The Veil of Elphame Quest\n\n**Central Mystery:** Where is Aramaina's legendary armor?\n\n**Key Players:**\n- Aramaina (deceased) - Former owner\n- Corin Quickpath - Only one who might know location\n- Baron Matthias - Killed Aramaina, may have clues\n- Nierynwen - Claims Aramaina's legacy, seeking Veil\n\n**Current Status:** Fellowship pursuing leads through Smoking Hills and Forest of Stone","x":-50,"y":-1040,"width":400,"height":250,"color":"1"}
+	],
+	"edges":[
+		{"id":"aramaina-veil","fromNode":"aramaina-node","fromSide":"top","toNode":"veil-node","toSide":"left","color":"5","label":"Former Owner"},
+		{"id":"corin-aramaina","fromNode":"corin-node","fromSide":"left","toNode":"aramaina-node","toSide":"right","color":"2","label":"Betrayed"},
+		{"id":"baron-aramaina","fromNode":"baron-node","fromSide":"top","toNode":"aramaina-node","toSide":"bottom","color":"2","label":"Killed"},
+		{"id":"treasure-veil","fromNode":"treasure-node","fromSide":"top","toNode":"veil-node","toSide":"bottom","color":"4","label":"May Contain"},
+		{"id":"corin-treasure","fromNode":"corin-node","fromSide":"bottom","toNode":"treasure-node","toSide":"right","color":"3","label":"Only Knows Location"},
+		{"id":"nierynwen-veil","fromNode":"nierynwen-node","fromSide":"top","toNode":"veil-node","toSide":"right","color":"5","label":"Seeking"},
+		{"id":"smoking-hills-aramaina","fromNode":"smoking-hills-node","fromSide":"top","toNode":"aramaina-node","toSide":"bottom","color":"6","label":"Vision Location"},
+		{"id":"forest-corin","fromNode":"forest-stone-node","fromSide":"top","toNode":"corin-node","toSide":"bottom","color":"6","label":"Last Known Location"}
+	]
+}

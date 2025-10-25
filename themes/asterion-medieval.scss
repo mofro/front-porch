@@ -1,0 +1,100 @@
+// Asterion Medieval Fantasy Theme
+// To use: Copy contents to quartz/styles/custom.scss
+
+// Color scheme: earthy tones with gold accents
+:root {
+  // Medieval color palette
+  --parchment: #f4e4c1;
+  --aged-paper: #e8d5b7;
+  --ink: #2c2416;
+  --gold: #d4af37;
+  --deep-red: #8b1a1a;
+  --forest-green: #2d5016;
+  --translucent-red: rgba(240,10, 10, 0.25);
+}
+
+// Override default colors with medieval palette
+.light {
+  --light: var(--parchment);
+  --lightgray: var(--aged-paper);
+  --darkgray: var(--ink);
+  --secondary: var(--deep-red);
+  --tertiary: var(--gold);
+}
+
+// Decorative borders for main content
+.article-container {
+  border: 3px double var(--gold);
+  padding: 2rem;
+  background: var(--parchment);
+}
+
+// Medieval-style headings
+h1 {
+  font-family: 'Cinzel', 'Times New Roman', serif;
+  color: var(--deep-red);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-bottom: 3px double var(--gold);
+  padding-bottom: 0.5rem;
+}
+
+h1.title {
+  color: var(--translucent-red);
+}
+
+h2 {
+  font-family: 'Cinzel', serif;
+  color: var(--forest-green);
+  border-left: 4px solid var(--gold);
+  padding-left: 1rem;
+}
+
+// Illuminated initial letter (drop cap)
+.article-content > p:first-of-type::first-letter {
+  font-size: 3.5em;
+  font-family: 'Cinzel', serif;
+  color: var(--deep-red);
+  float: left;
+  line-height: 0.8;
+  margin: 0.1em 0.1em 0 0;
+}
+
+// Ornate links
+a {
+  color: var(--deep-red);
+  text-decoration: none;
+  border-bottom: 1px solid var(--gold);
+  transition: all 0.3s ease;
+  
+  &:hover {
+    color: var(--gold);
+    border-bottom: 2px solid var(--gold);
+  }
+}
+
+// Scroll-like effect for session logs
+.session-log {
+  background: linear-gradient(to bottom, 
+    var(--aged-paper) 0%, 
+    var(--parchment) 10%, 
+    var(--parchment) 90%, 
+    var(--aged-paper) 100%);
+  border-radius: 8px;
+  box-shadow: 
+    0 0 10px rgba(0, 0, 0, 0.1),
+    inset 0 0 50px rgba(0, 0, 0, 0.05);
+  padding: 2rem;
+}
+
+// Wax seal effect for tags
+.tag {
+  background: var(--deep-red);
+  color: var(--parchment);
+  border-radius: 50%;
+  padding: 0.3rem 0.8rem;
+  font-size: 0.85rem;
+  font-weight: bold;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+

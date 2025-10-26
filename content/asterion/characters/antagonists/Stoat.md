@@ -32,7 +32,7 @@ Stoat was Hanmer's trusted lieutenant, responsible for overseeing daily operatio
 - Underestimated his opponents
 
 ## First Appearance
-[[Logs/2024-03-09 Asterion Log#The Skull & Sword Tavern|2024-03-09 Asterion Log]]
+- [[/asterion/Logs/2024-03-09-Asterion-Log#The Skull & Sword Tavern|2024-03-09 Asterion Log]]
 
 ## Connections
 - **Boss**: [[Dramatis-Personae#Hanmer|Hanmer]]

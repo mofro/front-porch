@@ -21,4 +21,4 @@ A scholar and magic-user with rumpled robes and ink-stained fingers. His arcane 
 - Magical abilities
 - Mysterious depths
 
-**First Appearance:** [[Logs/2024-03-09 Asterion Log#The Rescue|2024-03-09 Asterion Log]]
+**First Appearance:** [[/asterion/Logs/2024-03-09-Asterion-Log#The Rescue|2024-03-09 Asterion Log]]

@@ -37,7 +37,7 @@ Big Victor is a major player in Lutetia's criminal underworld, having taken over
 - Prefers negotiation over unnecessary violence
 
 ## First Appearance
-[[Logs/2024-06-01 Asterion Log]]
+- [[/asterion/Logs/2025-05-03-Asterion-Log#The Bishop's Audience|2025-05-03 Asterion Log]]
 
 ## Connections
 - **Location**: [[Places-of-Asterion#Lutetia|Lutetia]]

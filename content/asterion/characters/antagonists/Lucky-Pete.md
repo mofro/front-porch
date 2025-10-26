@@ -32,7 +32,7 @@ A notorious thief whose final act of swallowing a crucial key led to a gruesome 
 - Known for his luck, which ultimately ran out
 
 ## First Appearance
-[[Logs/2024-03-09 Asterion Log#The Meeting at Falcon Hill|2024-03-09 Asterion Log]]
+- [[/asterion/Logs/2024-03-09-Asterion-Log#The Meeting at Falcon Hill|2024-03-09 Asterion Log]]
 
 ## Connections
 - **Location of Death**: [[Places-of-Asterion#Falcon Hill|Falcon Hill]]

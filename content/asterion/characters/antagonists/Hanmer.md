@@ -33,7 +33,7 @@ Hanmer was the leader of a criminal organization operating in [[Places-of-Asteri
 - Prefers to operate from the shadows
 
 ## First Appearance
-[[Logs/2024-03-09 Asterion Log#The Skull & Sword Tavern|2024-03-09 Asterion Log]]
+[[/asterion/Logs/2024-03-09-Asterion-Log#The Skull & Sword Tavern|2024-03-09 Asterion Log]]
 
 ## Connections
 - **Location**: [[Places-of-Asterion#Lutetia|Lutetia]]

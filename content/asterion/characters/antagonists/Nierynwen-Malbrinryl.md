@@ -39,7 +39,7 @@ A striking elf woman with hip-length ebony hair, pale blue eyes, and a distincti
 - Expansion of her bandit kingdom
 
 ## First Appearance
-[[Logs/2024-05-10 Asterion Log]]
+- [[/asterion/Logs/2024-05-10-Asterion-Log#The Encounter with Nierynwen|2024-05-10 Asterion Log]]
 
 ## Connections
 - **Alleged Mother**: [[Dramatis-Personae#Aramaina Faelandaerl|Aramaina Faelandaerl]]

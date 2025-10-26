@@ -21,4 +21,4 @@ A mysterious blind elf whose sightless eyes seem to perceive more than they shou
 - Deadly competence
 - Mysterious background
 
-**First Appearance:** [[Logs/2024-03-09 Asterion Log#The Skull & Sword Tavern|2024-03-09 Asterion Log]]
+**First Appearance:** [[/asterion/Logs/2024-03-09-Asterion-Log#The Skull & Sword Tavern|2024-03-09 Asterion Log]]

@@ -22,4 +22,4 @@ A dour dwarven warrior whose warhammer has cracked many skulls in service to who
 - Mercenary background
 - Hatred of goblins
 
-**First Appearance:** [[Logs/2024-03-09 Asterion Log#The Skull & Sword Tavern|2024-03-09 Asterion Log]]
+**First Appearance:** [[/asterion/Logs/2024-03-09-Asterion-Log#The Skull & Sword Tavern|2024-03-09 Asterion Log]]

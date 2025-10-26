@@ -101,6 +101,21 @@
 **Source:** [[Logs/2024-08-31 Asterion Log]]  
 **Origin:** Necromancer's traveling cache  
 
+### Night Vision
+**Type:** Magical enhancement
+**Form:** Powder in 2" parchment square  
+**Weight:** Negligible  
+**Effect:** Provides sight in almost total darkness - (description pending)
+**Materials Traded:**  
+  - Chimera Venom  
+  - Viper Venom
+  - Troll Spinal Fluid
+
+**Quantity:** 3  
+**Status:** Available  
+**Source:** [[Logs/2025-10-25 Asterion Log]]  
+**Origin:** Herbalist in [[Places-of-Asterion#Avernis]]
+
 ---
 
 ## Section 4: Healing Potions
@@ -219,6 +234,7 @@
 **Status:** TRADED for 2 wyvern-scale tunics (5DR, 6lb each)  
 **Source:** [[Logs/2025-06-07 Asterion Log]]  
 **Origin:** Goblin Cave - 1st visit  
+
 
 ---
 

@@ -22,4 +22,4 @@ A towering warrior with copper-red hair and massive frame, muscles rippling bene
 - Brutal efficiency in combat
 - Devastating strength
 
-**First Appearance:** [[Logs/2024-03-09 Asterion Log#The Meeting at Falcon Hill|2024-03-09 Asterion Log]]
+**First Appearance:** [[/asterion/Logs/2024-03-09-Asterion-Log#The Meeting at Falcon Hill|2024-03-09 Asterion Log]]

@@ -1,5 +1,5 @@
 ---
-date: 2024-04  
+date: 2024-04
 original_date: 2024-04-06
 session_number: 2
 tags: 

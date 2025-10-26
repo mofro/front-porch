@@ -22,4 +22,4 @@ A lithe elven rogue of uncommon skill whose arrows fly true and daggers find the
 - Deadly accuracy
 - Fierce loyalty to mentor
 
-**First Appearance:** [[Logs/2024-03-09 Asterion Log#The Meeting at Falcon Hill|2024-03-09 Asterion Log]]
+**First Appearance:** [[/asterion/Logs/2024-03-09-Asterion-Log#The Meeting at Falcon Hill|2024-03-09 Asterion Log]]

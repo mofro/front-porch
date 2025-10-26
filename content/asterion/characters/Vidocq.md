@@ -10,7 +10,7 @@ class: Warrior
 condition: Blind
 ---
 
-**Race:** Elf  
+**Race:** Half-Elf  
 **Condition:** Blind
 
 ## Description

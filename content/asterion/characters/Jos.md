@@ -9,7 +9,7 @@ race: Elf
 class: Rogue
 ---
 
-**Race:** Elf  
+**Race:** Half-Elf  
 **Class:** Rogue  
 **Skills:** Archery, stealth, lockpicking, negotiation  
 **Mentor:** [[Dramatis-Personae#Colthan|Colthan]]

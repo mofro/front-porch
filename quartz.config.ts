@@ -19,7 +19,7 @@ const config: QuartzConfig = {
     gitHubFrontPorchRepoName: "front-porch",
     landingPageData: {
       authorName: "Game Master",
-      authorImage: "default-author-image.jpeg",
+      authorImage: "default-author-image.png",
       intro: {
         title: "Welcome to Asterion!",
         firstLeadUp: "I'm the",
@@ -31,30 +31,30 @@ const config: QuartzConfig = {
           image: "default-landing-item-image.jpg",
           title: "Campaign Characters",
           description: "Meet the heroes, villains, and NPCs of Asterion",
-          pathnameOrUrl: "Dramatis-Personae",
+          pathnameOrUrl: "asterion/Dramatis-Personae",
         },
         {
           image: "default-landing-item-image.jpg",
           title: "Places & Locations",
           description: "Explore the world of Asterion",
-          pathnameOrUrl: "Places-of-Asterion",
+          pathnameOrUrl: "asterion/Places-of-Asterion",
         },
         {
           image: "default-landing-item-image.jpg",
           title: "Session Logs",
           description: "Follow the ongoing adventures",
-          pathnameOrUrl: "Logs",
+          pathnameOrUrl: "asterion/Logs/Timeline",
         }
       ],
     },
     gardenPageData: {
-      title: "The Asterion Campaign Archive",
+      title: "Campaign Archive",
       whatIWriteAbout: {
         leadUp: "This archive contains campaign notes about",
         topics: ["Characters & NPCs", "Locations & Geography", "Session Chronicles", "Magical Items", "Quest Lines"],
       },
       findMeOnCopy: "You can find me on these platforms:",
-      gardenAuthorImage: "default-author-image.jpeg",
+      gardenAuthorImage: "default-author-image.png",
       socialLinks: {
         twitter: "https://twitter.com/join_the_DGC",
         facebook: "https://facebook.com/digitalgardeningcollective",
@@ -71,7 +71,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "front-porch.digitalgardeningcollective.com",
+    baseUrl: process.env.NODE_ENV === 'production' ? "example.com" : "",  // Empty for local dev, replace with your domain for production
     ignorePatterns: ["private", "Templates", ".obsidian", "Archives", "Tools", "Source Files", "Logs-temp"],
     defaultDateType: "modified",
     theme: {

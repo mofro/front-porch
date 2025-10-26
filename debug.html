@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Debug Quartz</title>
+</head>
+<body>
+    <h1>Quartz Debug Page</h1>
+    <p>Open the browser console (F12) to see any errors.</p>
+    <script>
+        // Try to fetch the root path
+        fetch('/')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! Status: ${response.status}`);
+                }
+                return response.text();
+            })
+            .then(data => {
+                console.log('Success:', data);
+                document.body.innerHTML += '<p>Success! Content loaded.</p>';
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.body.innerHTML += `<p>Error: ${error.message}</p>`;
+            });
+    </script>
+</body>
+</html>

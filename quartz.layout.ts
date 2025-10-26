@@ -118,11 +118,12 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Row({
-      components: [Component.Darkmode(), Component.Search()],
-      hasSpacedBetweenJustification: false,
-    }),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      filterFn: (node) => {
+        // Exclude tags, blogroll, portfolio, now, about, and garden folders from explorer
+        return !["tags", "blogroll", "portfolio", "now", "about", "garden"].includes(node.name)
+      }
+    })),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -141,11 +142,12 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Row({
-      components: [Component.Darkmode(), Component.Search()],
-      hasSpacedBetweenJustification: false,
-    }),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      filterFn: (node) => {
+        // Exclude tags, blogroll, portfolio, now, about, and garden folders from explorer
+        return !["tags", "blogroll", "portfolio", "now", "about", "garden"].includes(node.name)
+      }
+    })),
   ],
   right: [],
 }
@@ -160,11 +162,12 @@ export const defaultTagPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Row({
-      components: [Component.Darkmode(), Component.Search()],
-      hasSpacedBetweenJustification: false,
-    }),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      filterFn: (node) => {
+        // Exclude tags, blogroll, portfolio, now, about, and garden folders from explorer
+        return !["tags", "blogroll", "portfolio", "now", "about", "garden"].includes(node.name)
+      }
+    })),
   ],
   right: [
     Component.Graph(),

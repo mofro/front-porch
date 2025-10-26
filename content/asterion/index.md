@@ -1,5 +1,5 @@
 ---
-title: "Asterion Campaign Archive"
+title: "Asterion Campaign"
 tags:
   - campaign
   - index

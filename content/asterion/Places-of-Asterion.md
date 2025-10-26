@@ -2,7 +2,9 @@
 *A Comprehensive Geographic Guide to the Realm*
 
 ---
+## General Features
 
+![[Asterion_General_Features.jpg]]
 ## Ancient and Mysterious Sites
 
 ### Carnute Tomb

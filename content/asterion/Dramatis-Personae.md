@@ -6,74 +6,56 @@
 ## Allied NPCs and Craftsmen
 
 ### Abrum
-**Tags:** #NPCs #Dwarves #Craftsmen
-**Race:** Dwarf
-**Profession:** Smith
-**Location:** [[Places-of-Asterion#Bort|Bort]]
-**Services:** Armor crafting, particularly skilled with exotic materials
-**Notable Work:** Commissioned to create armor from [[Artifacts-&-Treasures#Wyvern Scales|wyvern scales]] for [[Dramatis-Personae#Ahira|Ahira]]
-**Payment Method:** Accepts unused crafting materials as payment
-**First Appearance:** [[Logs/2025-08-30 Asterion Log]]
+
+![[asterion/characters/npcs/Abrum]]
+
+---
 
 ### Brother Fulton
-**Tags:** #NPCs #Clergy #Scholars
-**Race:** Human
-**Profession:** Antiquarian and Library Steward
-**Location:** [[Places-of-Asterion#God's Gate|God's Gate]] priory
-**Expertise:** Ancient texts, weapon identification, archaic Elven script
-**Notable Service:** Identified [[Artifacts-&-Treasures#The Bloodleash|The Bloodleash]] and provided its historical context
-**Demeanor:** Scholarly, helpful to those seeking knowledge
-**First Appearance:** [[Logs/2025-08-30 Asterion Log]]
+
+![[asterion/characters/npcs/Brother-Fulton]]
+
+---
 
 ### Alinor
-**Tags:** #NPCs #Prisoners #Survivors
-**Race:** Human
-**Status:** Rescued prisoner
-**Imprisonment:** Forced to perform mining excavation under goblin coercion
-**Location:** [[Places-of-Asterion#Rope Bridge Cave|Rope Bridge Cave]] mine works
-**Knowledge:** Provided information about recent goblin mining operations
-**Fate:** Rescued by companions and escorted to safety
-**First Appearance:** [[Logs/2025-08-30 Asterion Log]] (mentioned)
+
+![[asterion/characters/npcs/Alinor]]
 
 ---
 
 ## The Fellowship of Heroes
 
-*For detailed individual character pages, see: [[asterion/characters/Ahira|Ahira]], [[asterion/characters/Alvion-Naeeries|Alvion]], [[asterion/characters/Ferguson-MacJayne|Ferguson]], [[asterion/characters/Jos|Jos]], [[asterion/characters/Rupus-Thatch|Rupus]], [[asterion/characters/Vidocq|Vidocq]]*
-
----
-
-<h3 id="ahira" class="anchor-only">Ahira</h3>
+### Ahira
 
 ![[asterion/characters/Ahira]]
 
 ---
 
-<h3 id="alvion-naeeries" class="anchor-only">Alvion Naeeries</h3>
+### Alvion Naeeries
 
 ![[asterion/characters/Alvion-Naeeries]]
 
 ---
 
-<h3 id="ferguson-macjayne" class="anchor-only">Ferguson MacJayne</h3>
+### Ferguson MacJayne
 
 ![[asterion/characters/Ferguson-MacJayne]]
 
 ---
 
-<h3 id="jos" class="anchor-only">Jos</h3>
+### Jos
 
 ![[asterion/characters/Jos]]
 
 ---
 
-<h3 id="rupus-thatch" class="anchor-only">Rupus Thatch</h3>
+### Rupus Thatch
 
 ![[asterion/characters/Rupus-Thatch]]
 
 ---
 
-<h3 id="vidocq" class="anchor-only">Vidocq</h3>
+### Vidocq
 
 ![[asterion/characters/Vidocq]]
 
@@ -82,81 +64,62 @@
 ## Companions and Familiars
 
 ### Puddin'
-**Race:** Mastiff  
-**Owner:** [[Dramatis-Personae#Ahira|Ahira]]  
-**Role:** Guard dog and combat companion  
-**Training:** Guard-trained, purchased from kennel in Aurelian  
-**Description:** A loyal mastiff that accompanies Ahira into battle and guards the party's belongings.  
-**First Appearance:** [[Logs/2024-10-19 Asterion Log]]
+
+![[asterion/characters/companions/Puddin]]
+
+---
 
 ### Quia
-**Race:** Water Nymph (Undine)  
-**Bond:** Familiar to [[Dramatis-Personae#Rupus Thatch|Rupus Thatch]]  
-**Description:** A sprightly water nymph who dwells within a specially prepared waterskin at Rupus's hip. Capricious in nature, bound to [[Dramatis-Personae#Rupus Thatch|Rupus]] through mysteries known only to themselves. Greets her master's rescuers with glittering splashes.  
-**Notable Traits:** Aquatic nature, mystical bond, capricious personality  
-**First Appearance:** [[Logs/2024-03-09 Asterion Log#The Rescue|2024-03-09 Asterion Log]]
+
+![[asterion/characters/companions/Quia]]
+
+---
 
 ## Antagonists and Criminals
 
 ### Big Victor
-**Tags:** #Criminals #LutetiaCrime #Allies  
-**Role:** Crime Boss in [[Places-of-Asterion#Lutetia|Lutetia]]  
-**Territory:** Adjacent to [[Dramatis-Personae#Hanmer|Hanmer]]'s former turf  
-**Personality:** Alternately conciliatory and menacing  
-**Position:** Opposes [[Dramatis-Personae#Child Breakers|Child Breakers]], willing to work with [[Dramatis-Personae#Vidocq|Vidocq]]  
-**Business:** Negotiated partition of [[Dramatis-Personae#Hanmer|Hanmer]]'s territory after his flight  
-**Agreement:** No dealings with [[Dramatis-Personae#Child Breakers|Child Breakers]], donations to [[Dramatis-Personae#Daughters of God|Daughters of God]]  
-**First Appearance:** [[Logs/2024-06-01 Asterion Log]]
+
+![[asterion/characters/antagonists/Big-Victor]]
+
+---
 
 ### Hanmer
-**Tags:** #Criminals #LutetiaCrime #Antagonists  
-**Role:** Gang Boss  
-**Location:** [[Places-of-Asterion#Skull & Sword Tavern|Skull & Sword Tavern]], [[Places-of-Asterion#Glatney Street|Glatney Street]]  
-**Description:** Leader of a criminal organization in [[Places-of-Asterion#Lutetia|Lutetia]]'s underworld. Harbored a grudge against [[Dramatis-Personae#Colthan|Colthan]] and attempted to ambush [[Dramatis-Personae#Jos|Jos]] in his tavern's cellar. Forced to surrender treasure and information to save his life.  
-**Fate:** Spared by Jos with a warning about harming her mentor  
-**Notable Traits:** Criminal leadership, grudge-holder, ultimately cowardly when cornered  
-**First Appearance:** [[Logs/2024-03-09 Asterion Log#The Skull & Sword Tavern|2024-03-09 Asterion Log]]
+
+![[asterion/characters/antagonists/Hanmer]]
+
+---
 
 ### Lucky Pete
-**Tags:** #Criminals #Deceased  
-**Role:** Deceased Thief  
-**Fate:** Hanged at [[Places-of-Asterion#Falcon Hill|Falcon Hill]] gibbet  
-**Significance:** Possessed a crucial [[Artifacts-&-Treasures#Lucky Pete's Key|key]] that he swallowed before execution, which [[Dramatis-Personae#Jos|Jos]] retrieved from his corpse  
-**First Appearance:** [[Logs/2024-03-09 Asterion Log#The Meeting at Falcon Hill|2024-03-09 Asterion Log]]
+
+![[asterion/characters/antagonists/Lucky-Pete]]
+
+---
 
 ### Nierynwen Malbrinryl
-**Tags:** #Elves #ElvenBandits #Antagonists #Aramaina's Legacy  
-**Race:** Elf  
-**Title:** Bandit Queen  
-**Appearance:** Striking elf woman with hip-length ebony hair, pale blue eyes, black satin eyepatch  
-**Claim:** Alleged daughter of [[Dramatis-Personae#Aramaina Faelandaerl|Aramaina Faelandaerl]]  
-**Background:** Father was Indólion Malbrinryl, High Elf who married [[Dramatis-Personae#Aramaina Faelandaerl|Aramaina]] ~400 years ago. Both father and daughter mysteriously vanished ~300 years ago under suspicious circumstances.  
-**Criminal Career:** Over 100 years of banditry, targeting Church and Royal revenues  
-**Equipment:** [[Artifacts-&-Treasures#Urumi|Urumi]] (whip-sword), envenomed blades  
-**Entourage:** Elf bandits, human followers, blonde boy cupbearer, pixie scout, possible Woodwose  
-**Goal:** Likely seeking the [[Artifacts-&-Treasures#Veil of Elphame|Veil of Elphame]]  
-**First Appearance:** [[Logs/2024-05-10 Asterion Log]]
+
+![[asterion/characters/antagonists/Nierynwen-Malbrinryl]]
+
+---
 
 ### Stoat
-**Tags:** #Criminals #Deceased  
-**Race:** Halfling  
-**Role:** [[Dramatis-Personae#Hanmer|Hanmer]]'s Lieutenant  
-**Fate:** Neck broken by [[Dramatis-Personae#Ferguson MacJayne|Ferguson MacJayne]] during the tavern confrontation  
-**Description:** A halfling criminal who served as Hanmer's right-hand man in the [[Places-of-Asterion#Skull & Sword Tavern|Skull & Sword Tavern]] operation.  
-**First Appearance:** [[Logs/2024-03-09 Asterion Log#The Skull & Sword Tavern|2024-03-09 Asterion Log]]
 
-### The Maestro (Orc Shaman)
-**Tags:** #Orcs #ChildBreakers #Antagonists #Supernatural #Deceased  
-**Race:** Orc  
-**Role:** Leader of [[Dramatis-Personae#Child Breakers|Child Breakers]] operation  
-**Appearance:** Tall, wizened, wielding [[Artifacts-&-Treasures#Elk Horn Staff|Elk Horn Staff]]  
-**Powers:** Mind control magic, spell casting, ritual magic  
-**Operations:** Child mutilation, underworld connections, ogre command  
-**Lair:** Underground cave system beneath [[Places-of-Asterion#Child Breakers Fortress|Child Breakers Fortress]]  
-**Equipment:** [[Artifacts-&-Treasures#Elk Horn Staff|Elk Horn Staff]], dire boar skull helmet, ritual implements  
-**Fate:** Killed by [[Dramatis-Personae#Ahira|Ahira]]'s pick to the vitals  
-**Significance:** Connected to broader Underworld network  
-**First Appearance:** [[Logs/2024-08-31 Asterion Log]]
+![[asterion/characters/antagonists/Stoat]]
+
+### The Maestro
+
+![[asterion/characters/antagonists/Maestro]]
+
+---
+
+### The Child Breakers
+
+![[asterion/characters/organizations/Child-Breakers]]
+
+### Lucky Pete
+
+![[asterion/characters/antagonists/Lucky-Pete]]
+
+---
 
 ### The Necromancer (Fortune-Teller)
 **Tags:** #Antagonists #Supernatural #Deceased #Undead  

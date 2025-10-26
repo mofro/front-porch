@@ -57,21 +57,25 @@ export default (() => {
                         })
                     }
                 </ul>
-                { slug?.startsWith("garden") && 
-                    <ul class="action-menu">
-                        <li class="action-menu-item"><a href="/now" class="action-menu-link">Now</a></li>
-                        <li class="action-menu-item"><a href="/blogroll" class="action-menu-link">Blogroll</a></li>
-                        <li class="action-menu-item">
-                            <SearchComponent { ...componentData } />
-                        </li>
-                        <li class="action-menu-item">
-                            <DarkModeComponent { ...componentData } />
-                        </li>
+                <ul class="action-menu">
+                    { slug?.startsWith("garden") && 
+                        <>
+                            <li class="action-menu-item"><a href="/now" class="action-menu-link">Now</a></li>
+                            <li class="action-menu-item"><a href="/blogroll" class="action-menu-link">Blogroll</a></li>
+                        </>
+                    }
+                    <li class="action-menu-item">
+                        <SearchComponent { ...componentData } />
+                    </li>
+                    <li class="action-menu-item">
+                        <DarkModeComponent { ...componentData } />
+                    </li>
+                    { slug?.startsWith("garden") && 
                         <li class="action-menu-item">
                             <RSSComponent { ...componentData } />
                         </li>
-                    </ul>
-                }
+                    }
+                </ul>
             </nav>
         )
     }

@@ -22,3 +22,5 @@ A flamboyantly attired entertainer whose skill with the hurdy-gurdy proves as ef
 - Flamboyant style
 
 **First Appearance:** [[Logs/2024-03-09 Asterion Log#The Final Member|2024-03-09 Asterion Log]]
+
+[Character Sheet (PDF)](/asterion/Alvion-Naeeries--The-Hutch-Edit_September_27_2025.pdf)

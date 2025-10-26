@@ -13,13 +13,15 @@ export default (() => {
       fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description
     const { css, js } = externalResources
 
-    const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
+    // Ensure baseUrl is never empty for URL construction
+    const baseUrlForUrl = cfg.baseUrl && cfg.baseUrl.trim() !== "" ? cfg.baseUrl : "example.com"
+    const url = new URL(`https://${baseUrlForUrl}`)
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
 
     const iconPath = joinSegments(baseDir, `static/author-image/${cfg.gardenPageData.gardenAuthorImage}`)
     const coverImage = fileData.frontmatter?.["cover-image"]
-    const ogImagePath = `https://${cfg.baseUrl}/static/${coverImage && typeof coverImage == "string" ? 
+    const ogImagePath = `https://${baseUrlForUrl}/static/${coverImage && typeof coverImage == "string" ? 
                         `item-cover/${coverImage}` :
                         "og-image.png"
                       }`
@@ -37,7 +39,7 @@ export default (() => {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
-        {cfg.baseUrl && <meta property="og:image" content={ogImagePath} />}
+        <meta property="og:image" content={ogImagePath} />
         <meta property="og:width" content="1200" />
         <meta property="og:height" content="675" />
         <link rel="icon" href={iconPath} />

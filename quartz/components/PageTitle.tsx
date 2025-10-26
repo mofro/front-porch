@@ -47,6 +47,7 @@ PageTitle.css = `
 .page-title {
   margin: 0;
   text-align: center;
+  display: none;
 }
 `
 

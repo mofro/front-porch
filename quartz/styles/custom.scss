@@ -5,6 +5,22 @@ $fullPageWidth: 1400px;
 
 // put your custom CSS here!
 
+// Ensure right column components stack vertically
+.right {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem; // Add some spacing between components
+  
+  > * {
+    width: 100%;
+    margin-bottom: 1.5rem;
+    
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
 // Spacing for Darkmode + Search row
 .left.sidebar .row {
   gap: 1rem; // Adjust this value (0.5rem, 1rem, 1.5rem, etc.)

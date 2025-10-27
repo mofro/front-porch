@@ -1,4 +1,15 @@
+node_modules/
+.quartz-cache/
+public/
 .DS_Store
+.obsidian/
+.env
+.env.local
+dist/
+coverage/
+.vscode/
+npm-debug.log*
+yarn-error.log*.DS_Store
 .gitignore
 node_modules
 public

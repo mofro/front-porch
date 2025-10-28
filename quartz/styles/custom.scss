@@ -172,3 +172,19 @@ a {
   font-weight: bold;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
+/* Drop cap styling */
+article p:nth-child(2)::first-letter {
+	initial-letter: 2;
+	-webkit-initial-letter: 2;
+	color: darkred;
+	float: left;
+	font-size: 3.5em;
+	line-height: 1;
+	padding: 0.2em;
+	font-family: "UnifrakturMaguntia", cursive;
+	margin-right: 0.2em;
+	margin-top: 0.1em;
+	background: #f8f0e6;
+	border: 2px solid red;
+	box-shadow: 3px 3px 0 darkred;
+}

@@ -28,7 +28,7 @@
   - Location: `/content/asterion/characters/npcs/`
 
 - [ ] **Antagonists & Criminals** (~10 entities)
-  - Big Victor, Hanmer, Lucky Pete, Child Breakers, etc.
+  - Big Victor, Hanmer, Lucky Pete, etc.
   - Location: `/content/asterion/characters/antagonists/`
 
 - [ ] **Organizations & Groups** (~12 entities)

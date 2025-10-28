@@ -1,6 +1,7 @@
 ---
 date: 2024-05
 original_date: 2024-05-10
+title: 2024-05-10 Asterion Log
 session_number: 3
 tags:
   - travel
@@ -32,10 +33,7 @@ prev_session: "2024-04-06 Asterion Log"
 next_session: "2024-06-01 Asterion Log"
 campaign_arc: "The Quest for Ancient Secrets"
 ---
-
-# 2024-05 Asterion Log
 *Original Date: May 10, 2024*
-*Session Three: On The Road*
 
 ## Summary
 The companions depart [[Places-of-Asterion#Lutetia|Lutetia]] following the [[Artifacts-&-Treasures#Volcian Property Deed|Volcian Property Deed]] discovered in the [[Places-of-Asterion#Great Keep|Great Keep]]'s depths, seeking the "alleged [[Places-of-Asterion#Carnute Tomb|Carnute Tomb]]" near [[Places-of-Asterion#Aurelian|Aurelian]]. Their journey leads through encounters with traveling entertainers and into the ancient burial chambers where they face guardians both spectral and material, uncovering treasures and mysteries that hint at darker secrets yet to be revealed.
@@ -62,7 +60,7 @@ While [[Dramatis-Personae#Nierynwen Malbrinryl|Nierynwen]]'s career as a bandit 
 
 Through her serving boy, [[Dramatis-Personae#Nierynwen Malbrinryl|Nierynwen]] summons [[Dramatis-Personae#Vidocq|Vidocq]] (his curiosity aroused by the elf's wreath of perfume, and already eavesdropping on her velvet-whispered directives) to the fire pit to share drink and conversation. He chats cautiously, noting the rumors of King Ludovic's capture, and [[Dramatis-Personae#Nierynwen Malbrinryl|Nierynwen]] notes wryly that kings come and go so frequently in her perception. [[Dramatis-Personae#Rupus Thatch|Rupus]] chimes in across the hushed room that queens do as well, but [[Dramatis-Personae#Nierynwen Malbrinryl|Nierynwen]] responds only with a fleeting smirk to the provocation, pressing [[Dramatis-Personae#Vidocq|Vidocq]] for tales of his travels.
 
-[[Dramatis-Personae#Vidocq|Vidocq]] explains that the group is laying low after tangling with a gang doing business with "[[Dramatis-Personae#Child Breakers|Child Breakers]]", telling a bit about their rescue of the beggars, [[Dramatis-Personae#Andre|Andre]]'s tale of the Breakers' lair in the [[Places-of-Asterion#High Fens|High Fens]], and their intent to one day track them there and end them. [[Dramatis-Personae#Nierynwen Malbrinryl|Nierynwen]] seems aware of the Breakers' presence in the [[Places-of-Asterion#High Fens|High Fens]], expressing at least some disdain for their "petty cruelties". A mildly intoxicated [[Dramatis-Personae#Ahira|Ahira]] punctuates his own contempt by banging his head against his table, which elicits a wince from [[Dramatis-Personae#Nierynwen Malbrinryl|Nierynwen]], but she again shrugs off any attempted provocation.
+[[Dramatis-Personae#Vidocq|Vidocq]] explains that the group is laying low after tangling with a gang doing business with "[[Dramatis-Personae#C Breakers|C Breakers]]", telling a bit about their rescue of the beggars, [[Dramatis-Personae#Andre|Andre]]'s tale of the Breakers' lair in the [[Places-of-Asterion#High Fens|High Fens]], and their intent to one day track them there and end them. [[Dramatis-Personae#Nierynwen Malbrinryl|Nierynwen]] seems aware of the Breakers' presence in the [[Places-of-Asterion#High Fens|High Fens]], expressing at least some disdain for their "petty cruelties". A mildly intoxicated [[Dramatis-Personae#Ahira|Ahira]] punctuates his own contempt by banging his head against his table, which elicits a wince from [[Dramatis-Personae#Nierynwen Malbrinryl|Nierynwen]], but she again shrugs off any attempted provocation.
 
 [[Dramatis-Personae#Nierynwen Malbrinryl|Nierynwen]] takes over relating her own tales, telling how she and her outlaws have preyed on the revenues of the King and Church. She stands to punctuate, with exuberant dance and sweeps of the [[Artifacts-&-Treasures#Urumi|Urumi]] she draws from her waist, her description of a confrontation with a powerful knight who succumbed to her envenomed blade. As her hair theatrically billows, [[Dramatis-Personae#Jos|Jos]] and [[Dramatis-Personae#Alvion Naeeries|Alvion]] glimpse that the way it draped at rest had concealed a black satin eyepatch.
 

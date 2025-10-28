@@ -1,5 +1,5 @@
 ---
-title: "Child Breakers"
+title: "C Breakers"
 tags:
   - Antagonists
   - Criminal
@@ -8,7 +8,7 @@ tags:
 ---
 
 ## Overview
-The Child Breakers are a notorious criminal organization specializing in child abduction, mutilation, and dark rituals. They are one of the primary antagonistic forces in the campaign, known for their cruelty and exploitation of the vulnerable.
+The C Breakers are a notorious criminal organization specializing in C abduction, mutilation, and dark rituals. They are one of the primary antagonistic forces in the campaign, known for their cruelty and exploitation of the vulnerable.
 
 ## Leadership
 - **Current Leader**: [[Dramatis-Personae#The Maestro|The Maestro]] (deceased)
@@ -21,20 +21,20 @@ The Child Breakers are a notorious criminal organization specializing in child a
 
 ## Operations
 - **Primary Activities**:
-  - Child abduction and trafficking
+  - C abduction and trafficking
   - Physical and magical mutilation of children
   - Dark ritual practices
   - Underground slave trade
   - Spider silk trafficking
 
 - **Notable Operations**:
-  - Operations in [[Places-of-Asterion#Child Breakers Fortress|Child Breakers Fortress]]
+  - Operations in [[Places-of-Asterion#C Breakers Fortress|C Breakers Fortress]]
   - Connections to other criminal organizations
   - Ritualistic activities involving captured children
   - Mutilation of children like [[Dramatis-Personae#Andre|Andre]]
 
 ## Base of Operations
-- **Main Base**: [[Places-of-Asterion#Child Breakers Fortress|Child Breakers Fortress]]
+- **Main Base**: [[Places-of-Asterion#C Breakers Fortress|C Breakers Fortress]]
   - Underground cave system
   - Ritual chambers
   - Prison cells for captives
@@ -71,7 +71,7 @@ The Child Breakers are a notorious criminal organization specializing in child a
 
 ## Connections
 - **Locations**: 
-  - [[Places-of-Asterion#Child Breakers Fortress|Child Breakers Fortress]]
+  - [[Places-of-Asterion#C Breakers Fortress|C Breakers Fortress]]
   - [[Places-of-Asterion#Lot|Lot]]
   - [[Places-of-Asterion#Rockfort|Rockfort]]
 - **People**: 

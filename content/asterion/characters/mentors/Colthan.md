@@ -19,12 +19,12 @@ Colthan is a master thief and mentor who operates in [[Places-of-Asterion#Wassfo
 
 ## Relationships
 - **[[Dramatis-Personae#Jos|Jos]]:** Protégé and surrogate child
-- **[[Dramatis-Personae#Hanmer|Hanmer]]:** Rival, targeted by Hanmer due to opposition to the [[Dramatis-Personae#Child Breakers|Child Breakers]]
+- **[[Dramatis-Personae#Hanmer|Hanmer]]:** Rival, targeted by Hanmer due to opposition to the [[Dramatis-Personae#C Breakers|C Breakers]]
 - **Local Orphans:** Acts as a father figure and mentor
 
 ## Background
 - **Philosophy:** Believes in teaching street children to survive and look out for each other
-- **Conflict:** Actively opposes the [[Dramatis-Personae#Child Breakers|Child Breakers]] and their exploitation of children
+- **Conflict:** Actively opposes the [[Dramatis-Personae#C Breakers|C Breakers]] and their exploitation of children
 - **Reputation:** Respected among the city's underbelly, feared by those who exploit the vulnerable
 
 ## First Appearance

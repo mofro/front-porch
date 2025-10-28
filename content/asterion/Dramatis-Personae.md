@@ -111,9 +111,9 @@
 
 ---
 
-### The Child Breakers
+### The C Breakers
 
-![[asterion/characters/antagonists/Child-Breakers]]
+![[asterion/characters/antagonists/C-Breakers]]
 
 ---
 
@@ -268,7 +268,7 @@
 ### Rockfort Parish Priest
 **Tags:** #Religious #LocalTownsfolk  
 **Location:** [[Places-of-Asterion#Rockfort|Rockfort]]  
-**Knowledge:** Claims ignorance of [[Dramatis-Personae#Child Breakers|Child Breakers]], mentions witch rumors  
+**Knowledge:** Claims ignorance of [[Dramatis-Personae#C Breakers|C Breakers]], mentions witch rumors  
 **Attitude:** Reassuring about local dangers, possibly uninformed or compromised  
 **Information:** Suggests Village Idiot might know more about local mysteries  
 **First Appearance:** [[Logs/2024-07-06 Asterion Log|2024-07-06]]
@@ -294,7 +294,7 @@
 **Type:** Religious convent  
 **Location:** North of [[Places-of-Asterion#Lutetia|Lutetia]]  
 **Purpose:** Care for orphaned and rescued children  
-**Service:** Received rescued children from [[Dramatis-Personae#Child Breakers|Child Breakers]] operation  
+**Service:** Received rescued children from [[Dramatis-Personae#C Breakers|C Breakers]] operation  
 **Funding:** Supported by companions' $120 donation and crime boss contributions  
 **First Appearance:** [[Logs/2024-06-01 Asterion Log]]
 
@@ -501,7 +501,7 @@
 - **[[Dramatis-Personae#Hanmer|Hanmer]] and [[Dramatis-Personae#Colthan|Colthan]]** have an unexplained grudge that threatens Jos
 - **[[Dramatis-Personae#Corin Quickpath|Corin Quickpath]] and [[Dramatis-Personae#Aramaina Faelandaerl|Aramaina]]** were lovers before his betrayal changed history
 - **[[Dramatis-Personae#Nierynwen Malbrinryl|Nierynwen Malbrinryl]]** claims [[Dramatis-Personae#Aramaina Faelandaerl|Aramaina]]'s legacy and likely seeks the [[Artifacts-&-Treasures#Veil of Elphame|Veil of Elphame]]  
-- **[[Dramatis-Personae#Child Breakers|Child Breakers]]** network opposed by both criminal organizations and the Fellowship
+- **[[Dramatis-Personae#C Breakers|C Breakers]]** network opposed by both criminal organizations and the Fellowship
 
 ### Political Tensions
 - **Gallian Nobility** weakened by [[Dramatis-Personae#King Ludovic|King]]'s captivity, creating power struggles
@@ -535,7 +535,7 @@
 
 ### Specific Groups
 **#LutetiaCrime** - Lutetia's criminal underworld  
-**#ChildBreakers** - Child mutilation cult  
+**#CBreakers** - mutilation cult  
 **#ElvenBandits** - Nierynwen's organization  
 **#GallianCourt** - Gallian royal court  
 **#ImperialNobility** - Holy Volcian Empire nobles  

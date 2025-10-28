@@ -125,11 +125,11 @@
 **Form:** Honey-gold liquid in earthenware flask  
 **Effect:** Major healing (game mechanics to be specified)  
 **Quantity:** 3 doses total  
-  - 1 from Child Breakers Fort  
+  - 1 from C Breakers Fort  
   - 2 from Necromancer Cache  
 **Status:** Available (all 3)  
 **Source:** [[Logs/2024-08-31 Asterion Log]]  
-**Origin:** [[Places-of-Asterion#child-breakers-fortress|Child Breakers Fort]] (1), Necromancer's traveling cache (2)  
+**Origin:** [[Places-of-Asterion#child-breakers-fortress|C Breakers Fort]] (1), Necromancer's traveling cache (2)  
 
 ### Health Potion
 **Type:** Healing elixir (consumable)  
@@ -150,11 +150,11 @@
 **Effect:** Restores fatigue expended in spellcasting. 4 MP restored per dose.  
 **Container:** Gourds (4) and flasks (2)  
 **Quantity:** 6 doses total  
-  - 4 gourds from Child Breakers Fort (shaman's box)  
+  - 4 gourds from C Breakers Fort (shaman's box)  
   - 2 flasks from Necromancer Cache  
 **Status:** Available (all 6)  
 **Source:** [[Logs/2024-08-31 Asterion Log]]  
-**Origin:** [[Places-of-Asterion#child-breakers-fortress|Child Breakers Fort]] (4), Necromancer's traveling cache (2)  
+**Origin:** [[Places-of-Asterion#child-breakers-fortress|C Breakers Fort]] (4), Necromancer's traveling cache (2)  
 **Note:** Additional material available - Ethereal Goo sufficient for 4 more paut potions  
 
 ---
@@ -361,7 +361,7 @@
 **Origin Locations:**
 - Necromancer Cache (2024-08-31): 15 items
 - Abode of Chaos (2024-12-07): 10 items
-- Child Breakers Fort (2024-08-31): 5 items
+- C Breakers Fort (2024-08-31): 5 items
 - Carnute Tomb (2024-05-10): 1 item
 - Forest of Stone (2025-03-15): 1 item
 - Goblin Cave (2025-06-07): 2 types

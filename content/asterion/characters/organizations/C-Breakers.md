@@ -1,13 +1,16 @@
 ---
-title: "Child Breakers"
-tags: ["Organizations", "Criminal", "Antagonists"]
-type: "organization"
-status: "Active"
-threat: "High"
+title: C Breakers
+tags:
+  - Organizations
+  - Criminal
+  - Antagonists
+type: organization
+status: Active
+threat: High
 ---
 
 ## Description
-A notorious criminal organization specializing in child abduction, mutilation, and dark rituals. They operate from a hidden fortress and are led by powerful figures like [[Dramatis-Personae#The Maestro|The Maestro]].
+A notorious criminal organization specializing in C abduction, mutilation, and dark rituals. They operate from a hidden fortress and are led by powerful figures like [[Dramatis-Personae#The Maestro|The Maestro]].
 
 ## Leadership
 - **Current Leader**: [[Dramatis-Personae#The Maestro|The Maestro]] (deceased)
@@ -16,18 +19,18 @@ A notorious criminal organization specializing in child abduction, mutilation, a
 
 ## Operations
 - **Primary Activities**:
-  - Child abduction and trafficking
+  - C abduction and trafficking
   - Dark ritual practices
   - Protection rackets
   - Underground slave trade
 
 - **Notable Operations**:
-  - Operation in [[Places-of-Asterion#Child Breakers Fortress|Child Breakers Fortress]]
+  - Operation in [[Places-of-Asterion#C Breakers Fortress|C Breakers Fortress]]
   - Connections to other criminal organizations
   - Ritualistic activities involving captured children
 
 ## Base of Operations
-- **Main Base**: [[Places-of-Asterion#Child Breakers Fortress|Child Breakers Fortress]]
+- **Main Base**: [[Places-of-Asterion#C Breakers Fortress|C Breakers Fortress]]
   - Underground cave system
   - Ritual chambers
   - Prison cells for captives
@@ -52,10 +55,10 @@ A notorious criminal organization specializing in child abduction, mutilation, a
   - Ongoing conflict with local authorities
 
 ## First Appearance
-[[Logs/2024-03-09 Asterion Log#The Child Breakers|2024-03-09 Asterion Log]]
+[[Logs/2024-03-09 Asterion Log#The C Breakers|2024-03-09 Asterion Log]]
 
 ## Connections
-- **Locations**: [[Places-of-Asterion#Child Breakers Fortress|Child Breakers Fortress]]
+- **Locations**: [[Places-of-Asterion#C Breakers Fortress|C Breakers Fortress]]
 - **People**: [[Dramatis-Personae#The Maestro|The Maestro]]
 - **Items**: [[Artifacts-&-Treasures#Elk Horn Staff|Elk Horn Staff]]
 

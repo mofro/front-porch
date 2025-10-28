@@ -478,7 +478,7 @@
 **Trade Route:** Transported through Rockfort by local farmers  
 **Value:** High-end material for clothing and armor  
 **Concealment:** Hidden under grain sacks to avoid attention  
-**Connection:** Linked to Child Breakers operations through farm couple  
+**Connection:** Linked to C Breakers operations through farm couple  
 **First Appearance:** [[Logs/2024-07-06 Asterion Log]]
 
 ---
@@ -492,7 +492,7 @@
 **User Restriction:** Crafted for specific wielder (The Maestro (Orc Shaman))  
 **Power Level:** High-level magic item  
 **Status:** Repulsive to handle, left behind by companions  
-**Location:** Child Breakers Underground Lair  
+**Location:** C Breakers Underground Lair  
 **First Appearance:** [[Logs/2024-08-31 Asterion Log]]
 
 ---
@@ -685,7 +685,7 @@
 
 ## Criminal Organizations and Donations
 
-### Child Breakers
+### C Breakers
 **Type:** Criminal cult/organization  
 **Operations:** Kidnapping orphaned children, physical and magical mutilation  
 **Purpose:** Creating more effective beggars through deliberate deformity  
@@ -697,12 +697,12 @@
 
 ### Daughters of God Support Fund
 **Amount:** $120 initial donation from companions  
-**Purpose:** Care for rescued Child Breakers victims  
+**Purpose:** Care for rescued C Breakers victims  
 **Ongoing Support:** Negotiated contributions from Lutetia crime bosses  
 **Recipients:** Andre and other rescued children  
 **First Appearance:** [[Logs/2024-06-01 Asterion Log]]
 
-### Child Breakers Fortress Loot
+### C Breakers Fortress Loot
 **Rescued Prisoners:** 6 chained children, all alive but haggard  
 **Intelligence Gained:** Underground levels with "Maestro" leadership  
 **Enemy Casualties:** Multiple guards and tower archers eliminated  

@@ -353,7 +353,7 @@
 **Original Contents:** 4 paut potion gourds, 1 Major Healing flask, herbs, bones  
 **Status:** In possession of companions (contents removed and distributed)  
 **Sources:** Loose Treasure, Campaign Inventory, Artifacts & Treasures  
-**Origin:** [[Places-of-Asterion#Child Breakers Underground Lair|Child Breakers underground lair]] (orc shaman's equipment)  
+**Origin:** [[Places-of-Asterion#C Breakers Underground Lair|C Breakers underground lair]] (orc shaman's equipment)  
 **Session Reference:** [[2024-08-31 Asterion Log]]  
 
 ### Spider Silk Rope (90')
@@ -468,7 +468,7 @@
 **Status:** LEFT BEHIND / DONATED to [[Places-of-Asterion#university-of-lutetia|University of Lutetia]]  
 **Warning:** Powerful magic item but unusable by fellowship  
 **Sources:** Loose Treasure, Campaign Inventory, Artifacts & Treasures  
-**Origin:** Child Breakers underground lair (orc shaman's equipment)  
+**Origin:** C Breakers underground lair (orc shaman's equipment)  
 **Session Reference:** 2024-08-31 Asterion Log  
 **Disposition:** Donated to [[Dramatis-Personae#Professore Miguel de Patavium|Professore Miguel de Patavium]] for study  
 
@@ -555,7 +555,7 @@
 
 ### Underworld Glyph
 **Type:** Carved stone marker (non-portable)  
-**Location:** Rock near phosphorescent fungus in Child Breakers cave stream  
+**Location:** Rock near phosphorescent fungus in C Breakers cave stream  
 **Purpose:** Marks access point to broader Underworld tunnel network  
 **Significance:** Evidence of connections across Asterion and possibly worldwide  
 **Users:** Unknown races (dwarves, goblins, orcs, troglodytes, others)  
@@ -632,7 +632,7 @@
 - Abode of Chaos: 11 items
 - Forest of Stone: 11 items
 - Glarissa's Dragon Hoard: 7 items
-- Child Breakers Lair: 4 items
+- C Breakers Lair: 4 items
 - Lake Terror: 1 item (major)
 - Goblin Cave (various): 2 items
 - Necromancer Cache: 1 item

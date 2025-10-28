@@ -1,6 +1,7 @@
 ---
 date: 2024-03
 original_date: 2024-03-09
+title: 2024-03-09 Asterion Log
 session_number: 1
 tags: 
   - origin
@@ -38,7 +39,6 @@ prev_session: null
 next_session: [[2024-04-06 Asterion Log]]
 campaign_arc: "The Gathering of Heroes"
 ---
-# 2024-03 Asterion Log
 *Original Date: March 9, 2024*
 *Session One: The Chronicle of Companions - A Prelude to Adventure*
 

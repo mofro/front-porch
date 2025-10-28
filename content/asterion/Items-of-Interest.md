@@ -170,7 +170,7 @@
 **Carrier:** [[Dramatis-Personae#Rupus Thatch|Rupus Thatch]]  
 **Status:** Available (evidence)  
 **Sources:** Loose Treasure Copy Pasta.md, Asterion Campaign Loot Inventory.md, Artifacts & Treasures.md  
-**Origin:** [[Places-of-Asterion#Child Breakers Underground Lair|Child Breakers Underground Lair]] ([[2024-08-31 Asterion Log]])  
+**Origin:** [[Places-of-Asterion#C Breakers Underground Lair|C Breakers Underground Lair]] ([[2024-08-31 Asterion Log]])  
 
 ### Peryton and Harpy Remains
 **Type:** Monster components  
@@ -351,7 +351,7 @@
 **Quantity:** 4 satchels  
 **Status:** Available  
 **Sources:** Loose Treasure Copy Pasta.md  
-**Origin:** [[Places-of-Asterion#Child Breakers Fortress|Child Breakers Fortress]]  
+**Origin:** [[Places-of-Asterion#C Breakers Fortress|C Breakers Fortress]]  
 
 ---
 
@@ -476,7 +476,7 @@
 - Abode of Chaos: 5 items
 - Forest of Stone: 2 items
 - Carnute Tomb: 2 items
-- Child Breakers Fort: 2 items
+- C Breakers Fort: 2 items
 - Various rewards/acquisitions: 15 items
 
 ---

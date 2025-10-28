@@ -13,7 +13,7 @@ threat: "Medium"
 A powerful crime boss operating in Lutetia, known for his ability to balance conciliatory and menacing behaviors to maintain control over his territory.
 
 ## Role
-Big Victor is a major player in Lutetia's criminal underworld, having taken over territory previously controlled by [[Dramatis-Personae#Hanmer|Hanmer]]. He maintains a delicate balance of power with other criminal elements while opposing more dangerous groups like the [[Dramatis-Personae#Child Breakers|Child Breakers]].
+Big Victor is a major player in Lutetia's criminal underworld, having taken over territory previously controlled by [[Dramatis-Personae#Hanmer|Hanmer]]. He maintains a delicate balance of power with other criminal elements while opposing more dangerous groups like the [[Dramatis-Personae#C Breakers|C Breakers]].
 
 ## Territory
 - Primary operations in [[Places-of-Asterion#Lutetia|Lutetia]]
@@ -26,7 +26,7 @@ Big Victor is a major player in Lutetia's criminal underworld, having taken over
 - Criminal enterprise oversight
 
 ## Agreements
-- No dealings with the [[Dramatis-Personae#Child Breakers|Child Breakers]]
+- No dealings with the [[Dramatis-Personae#C Breakers|C Breakers]]
 - Makes donations to the [[Dramatis-Personae#Daughters of God|Daughters of God]]
 - Willing to work with [[Dramatis-Personae#Vidocq|Vidocq]] when interests align
 
@@ -41,7 +41,7 @@ Big Victor is a major player in Lutetia's criminal underworld, having taken over
 
 ## Connections
 - **Location**: [[Places-of-Asterion#Lutetia|Lutetia]]
-- **Rivals**: [[Dramatis-Personae#Hanmer|Hanmer]], [[Dramatis-Personae#Child Breakers|Child Breakers]]
+- **Rivals**: [[Dramatis-Personae#Hanmer|Hanmer]], [[Dramatis-Personae#C Breakers|C Breakers]]
 - **Allies**: [[Dramatis-Personae#Vidocq|Vidocq]] (tentative)
 - **Beneficiaries**: [[Dramatis-Personae#Daughters of God|Daughters of God]]
 

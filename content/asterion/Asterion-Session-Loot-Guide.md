@@ -89,9 +89,9 @@
 
 ---
 
-### 2024-07-06: Child Breakers Fortress (Surface)
+### 2024-07-06: C Breakers Fortress (Surface)
 **Location:** Restored motte and bailey in High Fens wilderness  
-**Event:** Assault on Child Breakers compound, rescue of children  
+**Event:** Assault on C Breakers compound, rescue of children  
 
 **Items Acquired:**
 - 6 rescued children (placed with Daughters of God)
@@ -104,7 +104,7 @@
 
 ---
 
-### 2024-08-31: Child Breakers Underground Lair
+### 2024-08-31: C Breakers Underground Lair
 **Location:** Cave system beneath fortress  
 **Event:** Final confrontation with The Maestro (orc shaman)  
 

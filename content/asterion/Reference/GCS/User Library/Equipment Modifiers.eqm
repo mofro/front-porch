@@ -1,0 +1,17 @@
+{
+	"version": 5,
+	"rows": [
+		{
+			"id": "fa-rGqrzM2SveI1KV",
+			"name": "Physical Fatigue +",
+			"notes": "Must sleep (8 hours) to replenish",
+			"features": [
+				{
+					"type": "attribute_bonus",
+					"attribute": "fp",
+					"amount": 6
+				}
+			]
+		}
+	]
+}

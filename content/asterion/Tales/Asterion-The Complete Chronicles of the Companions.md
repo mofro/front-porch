@@ -34,9 +34,9 @@ Little did we know that this descent beneath Lutetia was but the first step on a
 
 **Summer of 1216**
 
-Gather 'round, little ones, and I'll tell you how our Jos came back to Wassford with giants and wizards in tow, and how she struck the first blow against the Child Breakers—those monsters who would steal childhood itself for profit.
+Gather 'round, little ones, and I'll tell you how our Jos came back to Wassford with giants and wizards in tow, and how she struck the first blow against the C Breakers—those monsters who would steal childhood itself for profit.
 
-You see, there are evils in this world that wear the faces of men, but whose hearts are blacker than any demon's. Such were the Child Breakers, who would take orphaned children and... well, little ones should not hear such details. Suffice it to say they would twist young bodies to make them better beggars, then sell them to crime bosses like chattel.
+You see, there are evils in this world that wear the faces of men, but whose hearts are blacker than any demon's. Such were the C Breakers, who would take orphaned children and... well, little ones should not hear such details. Suffice it to say they would twist young bodies to make them better beggars, then sell them to crime bosses like chattel.
 
 But Jos—ah, my brave Jos!—she would not stand for such wickedness. When she learned from me of Hanmer's dealings with these creatures, she and her companions vowed to see justice done. The trail led them to young Andre, poor lad, whose hands and feet had been transformed to flippers by dark arts.
 

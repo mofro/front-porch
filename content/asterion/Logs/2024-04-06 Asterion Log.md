@@ -1,6 +1,7 @@
 ---
 date: 2024-04
 original_date: 2024-04-06
+title: 2024-04-06 Asterion Log
 session_number: 2
 tags: 
   - origin
@@ -44,7 +45,6 @@ prev_session: [[2024-03-09 Asterion Log]]
 next_session: [[2024-05-10 Asterion Log]]
 campaign_arc: "The Gathering of Heroes"
 ---
-# 2024-04 Asterion Log
 *Original Date: April 6, 2024*
 *Session Two: The Gathering of Heroes*
 

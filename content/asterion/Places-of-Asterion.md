@@ -218,7 +218,7 @@
 **Type:** Town  
 **Region:** Near [[Places-of-Asterion#High Fens|High Fens]]  
 **Significance:** [[Dramatis-Personae#Andre|Andre]]'s hometown before he was orphaned  
-**Role:** Source of victims for Child Breakers operation  
+**Role:** Source of victims for C Breakers operation  
 **First Appearance:** [[Logs/2024-06-01 Asterion Log]]
 
 ### Ludonum
@@ -257,7 +257,7 @@
 **Location:** Edge of [[Places-of-Asterion#High Fens|High Fens]], last civilized settlement  
 **Features:** Cistercian abbey, parish church, active woodcutting industry  
 **Population:** Woodcutters, charcoal burners, suspicious farmers  
-**Significance:** Base for [[Dramatis-Personae#Child Breakers|Child Breakers]] operations  
+**Significance:** Base for [[Dramatis-Personae#C Breakers|C Breakers]] operations  
 **Underground:** Haunted caves riddle the highlands (rumored)  
 **Threats:** Distant lizard men, dragon Vestathrix, possible witch activity  
 **First Appearance:** [[Logs/2024-07-06 Asterion Log]]
@@ -315,7 +315,7 @@
 **Type:** Town  
 **Notable Resident:** [[Dramatis-Personae#Colthan|Colthan]] (mentor to [[Dramatis-Personae#Jos|Jos]])
 **Features:** Abbey of St. Martin, abandoned barn (Colthan's hideout)
-**Role:** Safe haven for rescued children and center of child welfare operations
+**Role:** Safe haven for rescued children and center of C welfare operations
 **First Appearance:** [[Logs/2024-06-01 Asterion Log]]
 
 ---
@@ -381,10 +381,10 @@
 **Type:** Dangerous wilderness region  
 **Geography:** Rugged, densely wooded, boggy terrain with hot springs  
 **Political Status:** Nominally divided between Gallian/Imperial counties and Prince Bishoprics  
-**Inhabitants:** Lizard men tribes, ancient dragon (worshipped as god), Child Breakers  
+**Inhabitants:** Lizard men tribes, ancient dragon (worshipped as god), C Breakers  
 **Threats:** Dragon worship, cannibalistic lizard men, volcanic activity  
 **Climate:** Hot springs offset winter torpor for cold-blooded inhabitants  
-**Significance:** Location of Child Breakers' fortress and ancient evils  
+**Significance:** Location of C Breakers' fortress and ancient evils  
 **First Appearance:** [[Logs/2024-06-01 Asterion Log]]
 
 ### Lake Terror

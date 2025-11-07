@@ -1,0 +1,1233 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+
+
+
+
+
+
+
+
+
+
+<title>4shared.com - document sharing - download GURPS Traveller - Psionics Institutes.pdf</title>
+    
+    <meta name="Description" content="Online file hosting and sharing - 5 GB free to store and manage documents, adobe pdf files. Multiple document upload.">
+    <meta name="Keywords" content="pdf download, pdf converter, online storage, free web space, file sharing, pdf">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="/pageDownload1/css/download.css?ver=4882" >
+    <link rel="stylesheet" type="text/css" href="/themes/default.css?ver=4882" >
+      
+
+    
+      <script type="text/javascript" src="/js/privateMessageJS.jsp?ver=4882" language="JavaScript"></script>
+      <script src="/js/dw_event.js?ver=4882" type="text/javascript"></script>
+      <script src="/js/dw_viewport.js?ver=4882" type="text/javascript"></script>
+      <script src="/js/dw_drag.js?ver=4882" type="text/javascript"></script>
+      <script src="/js/dw_writedrag.js?ver=4882" type="text/javascript"></script>
+
+    <script type="text/javascript" src="/js/ajaxHelper.js?ver=4882" language="javascript" ></script>
+    <script type="text/javascript" src="/js/swfobject.js?ver=4882" language="javascript" ></script>
+      <meta name="title" content="4shared.com - document sharing - download GURPS Traveller - Psionics Institutes.pdf" />
+      
+
+<script type="text/javascript">
+writeDrag.writeId = "cntnt";
+
+function clearOldValue() {
+  if (document.regform.indexemail.value == "your e-mail") document.regform.indexemail.value = "";
+}
+function reportAbuse() {
+  var windowname="abuse";
+  var url="/abuse.jsp?aLink=http://www.4shared.com/file/62144768/ec7a41d8/GURPS_Traveller_-_Psionics_Institutes.html";
+  OpenWindow = window.open(url,windowname,'toolbar=no,scrollbars=yes,resizable=yes,width=550,height=650,left=50,top=50');
+  OpenWindow.focus();
+}
+    function feedback() {
+      var windowname="Feedback";
+      var url="/feedback.jsp?aLink=http://www.4shared.com/file/62144768/ec7a41d8/GURPS_Traveller_-_Psionics_Institutes.html";
+      OpenWindow = window.open(url,windowname,'toolbar=no,scrollbars=yes,resizable=yes,width=500,height=460,left=50,top=50');
+      OpenWindow.focus();
+    }
+
+  function startDownload(){
+    //document.downloadForm.submit();
+    window.location = "http://dc88.4shared.com/download/62144768/ec7a41d8/GURPS_Traveller_-_Psionics_Institutes.pdf?tsid=20081122-111254-2bf6ec87";
+  }
+
+  function startPlayMedia(){
+    playMedia(document,'http://dc88.4shared.com/download/62144768/ec7a41d8/GURPS_Traveller_-_Psionics_Institutes.pdf?tsid=20081122-111254-2bf6ec87&','pdf');
+    document.getElementById("pButton").style.display = "none";
+    if( document.getElementById("smallImage") ){
+      document.getElementById("smallImage").style.display = "none";
+    }
+  }
+
+    function afterLoad(){
+      
+    
+    }
+</script>
+
+<script type="text/javascript">
+  function premiumLogin(fpRedirParam) {
+    document.location.href = "/login.jsp?fpRedirParam="+escape(fpRedirParam);
+  }
+  function premiumUpgrade() {
+    //document.location.href = "/pricing.jsp";
+    document.location.href = "/planPremiumDownload.jsp"; //"https://www.plimus.com/jsp/buynow.jsp?contractId=1687122";
+  }
+  function buyTraffic() {
+    //document.location.href = "/buyTraffic.jsp";
+    document.location.href = "/planPremiumDownload.jsp"; //"https://www.plimus.com/jsp/buynow.jsp?contractId=1687122";
+  
+  }
+  function signOut() {
+  
+    document.location.href = document.location.href + "&signout=1";
+  
+
+  }
+</script>
+      <style type="text/css">
+          .rc {width:207px}
+          .cmnt {width:315px}
+      </style>
+  </head>
+
+  <body onload="afterLoad()">
+
+  <script type="text/javascript">
+    function goto(page){
+      document.redirectToPageForm.topage.value=page;
+      document.redirectToPageForm.submit();
+    }
+  </script>
+  <form action="/redirectToAccountPage.jsp" name="redirectToPageForm">
+    <input type="hidden" name="topage" value=""/>
+  </form>
+  <form action="http://www.4shared.com/file/62144768/ec7a41d8/GURPS_Traveller_-_Psionics_Institutes.html" name="pmForm" method="post">
+      
+      <input type="hidden" name="privateMessage" />
+      <input type="hidden" name="to"/>
+      <input type="hidden" name="subj"/>
+  </form>
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+<table cellpadding="0" cellspacing="0" class="head" align="center">
+    <tr>
+      
+        <td width="99"><a href="/"><img src="/images/spacer.gif" alt="4shared, Free online files sharing" hspace="9" class="logo" /></a></td>
+      
+        <td width="150"><h1><h1 class="tagline">Free file sharing</h1></h1></td>
+        <td>
+            <table cellpadding="0" cellspacing="0" align="right" class="topSearchBox">
+                <tr>
+                    <td class="l"></td>
+                    <td class="c">
+                        
+
+<script type="text/javascript">
+  
+
+  function includeSearchOnSubmit(form){
+    if( form.searchExtention.options[form.searchExtention.selectedIndex].value=='' ){
+      form.searchmode.value=2;
+    }else{
+      form.searchmode.value=3;
+    }
+    return true;
+  }
+
+</script>
+<form action="/network/search.jsp" method="get" onsubmit="return includeSearchOnSubmit(this)">
+  <input type="text" name='searchName' class="field" style="width:240px" />&nbsp;
+  <select class="field absmid" name='searchExtention'>
+      <option value="" selected="selected">Any</option>
+      <option value="category:1">Music</option>
+      <option value="category:2">Video</option>
+      <option value="jpg">Photo</option>
+      <option value="category:5">Books</option>
+  </select>&nbsp;
+  <input type="submit" name='submit' value="Search" class="button" />
+  <input type='hidden' name='searchmode' />
+</form>
+
+
+                    </td>
+                    <td class="r"></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" class="contents" align="center">
+    <tr valign="top">
+        <td>
+
+    <img src="/images/spacer.gif" alt="" class="ctr" />
+    <img src="/images/spacer.gif" alt="" class="ctl" /><br clear="all" />
+    <table cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+            <td style="padding-left:15px" class="toplinks">
+                
+
+
+
+
+
+
+
+
+      
+      <a href="javascript:premiumUpgrade()" class="greylink"><b>Upgrade to premium</b></a>
+      
+      &nbsp;&nbsp;
+      <a href="javascript:signOut()" class="greylink">Sign Out</a> ( morte@walmonof.com.br )
+  
+      &nbsp;&nbsp;
+
+
+
+
+                <a href="javascript:feedback();" class="greylink">Feedback</a>
+                &nbsp;&nbsp;
+                <a href="javascript:reportAbuse();" class="greylink"
+                   title="Click here to report this file">Report abuse</a>
+            </td>
+
+        </tr>
+    </table>
+
+  <br /><br />
+  
+  <center>
+      
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+
+  function adloggerInc(page,adtext){
+    var countImg=new Image(1,1);
+    var countImgLink = '/main/adlogger.jsp?id='+Math.random();
+    countImgLink += "&page="+page;
+//    if( window.onclick ){
+//      countImgLink += "&wonclick="+escape(window.onclick);
+//    }
+//    if( adtext ){
+//      countImgLink += "&adtext="+escape(adtext);
+//    }
+    countImg.src = countImgLink;
+  }
+
+  function adbriteReplaceAbsent(adbriteElName, adblock, newWidth, newHeight){
+    var adbriteEl = document.getElementById(adbriteElName);
+    if( adbriteEl ){
+      adloggerInc("adbriteDisplay_"+adbriteElName, adbriteEl.innerHTML);
+      var present=false;
+      var spans = adbriteEl.getElementsByTagName("span");
+      for( var i in spans ){
+        if( spans[i].className && spans[i].className.indexOf("adText")!=-1 ){
+          if( spans[i].innerHTML.toLowerCase().indexOf('adbrite')==-1 ){
+            present=true;
+            adloggerInc("adbritePresent_"+adbriteElName);
+            break;
+          }
+        }
+      }
+      if(!present){
+        adbriteEl.innerHTML="<iframe border=0 frameborder=0 scrolling=no marginheight=0 marginwidth=0 width='"+(newWidth)
+                +"' allowtransparency='true' height='"+(newHeight)
+                +"' src='/main/ad_alter_adbrite_main.jsp?adblock="+adblock+"&downloadTheme=default'></iframe>";
+      }
+    }
+  }
+
+  function adbriteTestPresentInline(page){
+    adloggerInc("adbriteInlineDisplay_"+page);
+    var links = document.getElementsByTagName("a"); // "ispan" // "a"
+    for( var i in links ){
+      if( links[i].id && links[i].id.indexOf("AdBriteInlineAd_")==0 ){
+        adloggerInc("adbriteInlinePresent_"+page);
+        break;
+      }
+    }
+  }
+
+</script>
+
+
+
+
+
+
+<IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=728 HEIGHT=90 SRC="http://optimizedby.rmxads.com/st?ad_type=iframe&ad_size=728x90&section=240572"></IFRAME>
+
+
+
+     
+
+  </center>
+  <br /><br />
+  
+
+  
+
+  
+
+  
+
+  <br />
+  <table cellpadding="0" cellspacing="0" width="100%" style="border-bottom:dotted 1px #9E9E9E">
+      <tr>
+          <td width="40" valign="top"><img src="http://www.4shared.com/icons/32x32/pdf.gif" alt="pdf" width="32" height="32" class="absmid" /></td>
+          <td>
+              <div class="hideLong" style="width:700px">
+              <h2>GURPS Traveller - Psionics Institutes.pdf</h2>
+              </div>
+          </td>
+      
+      </tr>
+  </table>
+  <br />
+  <table cellpadding="0" cellspacing="0" width="100%">
+      <tr valign="top">
+          <td>
+
+        
+
+        <table cellpadding="0" cellspacing="0" width="100%">
+            <tr valign="top">
+                <td>
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+sessEnabledFileDCounter=true
+com.pmstation.shared.server.presentation.PrefixedHttpSession
+decodeSessionKeyFromRequest=null
+-->
+
+
+
+
+    <a href="http://dc88.4shared.com/download/62144768/ec7a41d8/GURPS_Traveller_-_Psionics_Institutes.pdf?tsid=20081122-111254-2bf6ec87" class="dbtn" tabindex="1"><span><span><font>Download Now</font>No virus detected</span></span></a>
+    
+
+
+
+<br clear="all" />
+<span class="xsmall lgrey">
+    Tested by Kaspersky Anti-Virus
+    2008-09-07
+</span>
+    
+
+
+
+
+
+
+                </td>
+                <td class="small red dcount">
+                    <div class="xlarge bold">22</div>
+                    downloads
+                </td>
+            </tr>
+        </table>
+
+              <br /><br />
+              <table cellpadding="0" cellspacing="0">
+                  <tr valign="top">
+                   
+                   
+                      <td style="border:solid 1px #C8C8C8">
+                          <img id='smallImage' alt="" src="http://dc88.4shared.com/img/62144768/ec7a41d8/GURPS_Traveller_-_Psionics_Institutes.pdf" vspace="2" hspace="2" class="absmid" />
+                      </td>
+                      <td width="20">&nbsp;</td>
+                   
+                   
+                      <td>
+                          <table cellpadding="0" cellspacing="0">
+                              <tr valign="top">
+                                  <td style="padding:3px 7px 3px 0"><b>Type of file:</b></td>
+                                  <td style="padding:3px 0">File</td>
+                              </tr>
+                              <tr valign="top">
+                                  <td style="padding:3px 7px 3px 0"><b>Size:</b></td>
+                                  <td style="padding:3px 0">1,158 KB</td>
+                              </tr>
+                              <tr valign="top">
+                                  <td style="padding:3px 7px 3px 0"><b>Uploaded:</b></td>
+                                  <td style="padding:3px 0">2008-09-07</td>
+                              </tr>
+                              <tr valign="top">
+                                  <td style="padding:3px 7px 3px 0"><b>Last downloaded:</b></td>
+                                  <td style="padding:3px 0">2008-11-16</td>
+                              </tr>
+                            
+                              <tr valign="top">
+                                  <td style="padding:3px 7px 3px 0"><b>Comments:</b></td>
+                                  <td style="padding:3px 0"><a href="#firstC" class="greylink">Add</a></td>
+                              </tr>
+                            
+                          </table>
+                      </td>
+
+                  </tr>
+              </table>
+              <br />
+              <table cellpadding="0" cellspacing="0" width="100%">
+                  <tr><td class="boxtl"></td><td class="boxt"></td><td class="boxtr"></td></tr>
+                  <tr>
+                      <td class="boxl"></td>
+                      <td class="boxc" style="padding:5px">
+                          <table cellpadding="0" cellspacing="0" width="100%">
+                              <tr valign="top">
+                                
+                                
+                                <td><a href="http://www.4shared.com/u/vtrmtqv/660d463b/mortewalmonofcombr.html"><img src="/images/noavatar.gif" alt="morte"
+                                           class="av" /></a></td>
+                                
+                                
+                                  <td>
+                                      <table cellpadding="0" cellspacing="6">
+                                         
+                                          <tr>
+                                              <td>By:</td>
+                                              <td class="bold">
+                                                
+                                                <div class="hideLong" style="width:200px"><a href="http://www.4shared.com/u/vtrmtqv/660d463b/mortewalmonofcombr.html" class="lbluelink">morte</a></div>
+                                                
+                                              </td>
+                                          </tr>
+                                          <tr>
+                                              <td>Joined:</td>
+                                              <td><b>11  months ago </b></td>
+                                          </tr>
+                                          
+                                          
+                                          <tr>
+                                              <td>Folder:</td>
+                                              <td>
+                                                  <div class="hideLong" style="width:200px">
+                                                  <a href="http://www.4shared.com/dir/4843277/319552d9/sharing.html"><img alt="" src="/images/spacer.gif"
+                                                                                  class="sfolder absmid"
+                                                                                  style="margin-right:3px"
+                                                          /></a><a href="http://www.4shared.com/dir/4843277/319552d9/sharing.html" class="greylink">My 4shared</a>
+                                                  </div>
+                                              </td>
+                                          </tr>
+                                          
+                                        
+                                        <tr>
+                                              <td colspan="2">
+                                                  <div class="small">
+                                                      <img src="/images/icons/16x16/email.gif" alt="" width="16" height="16" class="absmid" vspace="3" />
+                                   
+                                                      <a href="javascript:void(0);" onclick="writePrivateMessage(event,2983952)">Send Private Message</a>
+                                    
+                                                  </div>
+                                              </td>
+                                          </tr>
+                                      
+                                      </table>
+                                  </td>
+                              </tr>
+                          </table>
+
+                          <div style="margin:10px 0 5px 0">
+                            <b class="red">Publisher's description</b>
+                          </div>
+                          <div class="hideLong" style="line-height:1.5em;width:378px">
+                              This file has been stored on the publisher's virtual drive on 4shared.com (online file storage service).
+The file is shared for public access and downloading. The publisher is responsible for the content of the file.
+                          </div>
+                      </td>
+                      <td class="boxr"></td>
+                  </tr>
+                  <tr><td class="boxbl"></td><td class="boxb"></td><td class="boxbr"></td></tr>
+              </table>
+              <br />
+
+          
+
+            
+
+              <b class="big">Share</b>
+              <table cellpadding="0" cellspacing="0" width="100%">
+                  <tr><td class="boxtl"></td><td class="boxt"></td><td class="boxtr"></td></tr>
+                  <tr>
+                      <td class="boxl"></td>
+                      <td class="boxc">
+                          <table width="100%">
+                              <tr>
+                                  <td><input type="text" value="http://www.4shared.com/file/62144768/ec7a41d8/GURPS_Traveller_-_Psionics_Institutes.html" readonly="readonly" onclick="this.focus();this.select()"
+                                             class="field1" style="width:230px" /></td>
+                                  <td width="125">
+                                      <!-- AddThis Bookmark Button BEGIN -->
+<script type="text/javascript">
+  addthis_pub    = 'pmstation';
+  addthis_brand  = '4shared.com';
+  addthis_logo   = 'http://www.4shared.com/images/images/logo.gif';
+  addthis_logo_background = 'FFFFFF';
+  addthis_logo_color      = '1370A0';
+  addthis_options         = 'favorites, email, digg, delicious, google, myspace, live, myweb, furl, more';
+</script>
+<a href="http://www.addthis.com/bookmark.php" onMouseOver="return addthis_open(this, '', location.href, document.title)" onMouseOut="addthis_close()" onClick="return addthis_to()"><img src="http://s9.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt="" class="absmid" /></a>
+<script type="text/javascript" src="http://s7.addthis.com/js/15/addthis_widget.js"></script>
+<!-- AddThis Bookmark Button END -->
+
+
+                                  </td>
+                              </tr>
+                              <tr class="small">
+                                  <td>
+
+                                  </td>
+                                  <td>
+                                      <a href="http://www.facebook.com/sharer.php?u=http://www.4shared.com/file/62144768/ec7a41d8/GURPS_Traveller_-_Psionics_Institutes.html&amp;t=GURPS Traveller - Psionics Institutes.pdf"
+                                         class="lgreylink" target="_blank"
+                                        ><img src="/images/spacer.gif" alt="" class="fbook absmid" /><span class="absmid"> Facebook</span></a>
+                                  </td>
+                              </tr>
+                          </table>
+                      </td>
+                      <td class="boxr"></td>
+                  </tr>
+                  <tr><td class="boxbl"></td><td class="boxb"></td><td class="boxbr"></td></tr>
+              </table>
+
+        
+        <br />
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    addingComments = false;
+    function commentsPagerNavigate(start){
+        var aj = new AjaxHelper();
+        aj.sendGetTextRequest(
+          "http://www.4shared.com/file/62144768/ec7a41d8/GURPS_Traveller_-_Psionics_Institutes.html?start="+start+"&showPart=commentList&random="+Math.random(),
+          function(txt){
+            document.getElementById("tdCommentList").innerHTML=txt;
+          }
+        );
+    }
+    
+    function addComment_onsubmit(){
+        addingComments=true;
+        return true;
+    }
+    function addCommentFrame_onload(){
+        if( addingComments ){
+          addingComments=false;
+          document.addComment.comment.value='';
+          var newCommentsList = frames['addCommentFrame'].document.body.innerHTML;
+          document.getElementById("tdCommentList").innerHTML = newCommentsList;
+        }
+    }
+  
+</script>
+
+<a name="firstC"></a>
+<table cellpadding="0" cellspacing="0" width="100%">
+  <tr valign="top">
+    <td class="text" id='tdCommentList'>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </td>
+  </tr>
+  <tr valign="top">
+    <td class="text addComment">
+
+
+
+
+      <form action="http://www.4shared.com/file/62144768/ec7a41d8/GURPS_Traveller_-_Psionics_Institutes.html#lastC" method="post" name="addComment"
+              target='addCommentFrame' onsubmit="return addComment_onsubmit();" >
+        <input type="hidden" name="showComments" value="true"/>
+        <input type="hidden" name="showPart" value="commentList"/>
+
+        <b>Add your comment</b><br /><br />
+
+        Name:
+          <b class="lblue">morte</b>
+          <div style="margin: 5px 0">
+              <textarea rows="5" cols="45" name="comment" style="width:390px" class="field2"></textarea>
+          </div>
+          <div id="submitCommButt">
+            <input type="submit" value="Add Comment" class="field2" />
+          </div>
+        </form>
+
+        <iframe id='addCommentFrame' name="addCommentFrame"
+                style="display:none;" width="1" height="1"
+                onload="addCommentFrame_onload();" ></iframe>
+      
+    </td>
+  </tr>
+</table>
+
+        
+
+              <br />
+        
+              <div style="border-top:dotted 1px #9E9E9E;border-bottom:dotted 1px #9E9E9E">
+                  <br />
+                  
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Begin: AdBrite -->
+<style type="text/css">
+    .ad3 .adHeadline {font: bold 14px Arial, Tahoma, Verdana; text-decoration: underline; color: #006699;}
+    .ad3 .adText {font: normal 12px Arial, Tahoma, Verdana; text-decoration: none; color:#333333}
+    .ad3 .adHeadline:hover {background:#c1daf6;}
+</style>
+<div class="ad3" id='adbrite_downloadThird'>
+    <script type="text/javascript" src="http://ads.adbrite.com/mb/text_group.php?sid=779940&br=1&dk=7469636b6574735f335f315f776562">
+    </script>
+</div>
+<!-- End: AdBrite -->
+
+<script type="text/javascript" xml:space="preserve">
+  adbriteReplaceAbsent('adbrite_downloadThird',"downloadThird",234,60);
+</script>
+
+
+     
+
+
+              </div>
+        
+        
+          </td>
+
+          <td width="20">&nbsp;</td>
+
+          <td width="320">
+        
+              
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="margin-left:20px">
+    
+<IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=300 HEIGHT=250 SRC="http://optimizedby.rmxads.com/st?ad_type=iframe&ad_size=300x250&section=240572"></IFRAME>
+</div>
+<br />
+
+     
+
+        
+              <div style="margin-left:20px">
+
+        
+                  <div class="hideLong" style="width:300px">
+                  <a href="javascript:showMore();" class="lgreylink">
+                      <img src="/images/icons/9x9/arrowright.gif" alt="" width="9" height="9" class="absmid" id="moreFilesArr" hspace="2" /> &nbsp;
+                      <b class="big">More from</b> &nbsp;
+                  <img alt=""
+                       src="/icons/16x16/openfoldersharedicon.gif"
+                       width="16" height="16" class="absmid"
+                       style="margin-right:3px"
+                       />My 4shared</a>
+                  </div>
+<script type="text/javascript">
+  function showMore(){
+    if(document.getElementById('moreFilesIFrame')!=null){
+      if(document.getElementById('moreFilesIFrameContainer').style.display=='inline'){
+        hideMoreImpl();
+      }else {
+        showMoreImpl();
+      }
+    }else {
+      document.getElementById("moreFilesIFrameContainer").innerHTML="<iframe marginWidth='0' marginHeight='0' src='http://www.4shared.com/minifolder/4843277/319552d9/sharing.html?woHeader=1'"+
+                                                                    "scrolling='no' frameborder='0' width='296' height='200' id='moreFilesIFrame'"+
+                                                                    "style='border:solid 1px #CDCDCD'></iframe><br />";
+      showMoreImpl();
+    }
+  }
+  function showMoreImpl(){
+    document.getElementById('moreFilesIFrameContainer').style.display='inline';
+    document.getElementById('moreFilesArr').src='/images/icons/9x9/arrowdown.gif';
+  }
+  function hideMoreImpl(){
+    document.getElementById('moreFilesIFrameContainer').style.display='none';
+    document.getElementById('moreFilesArr').src='/images/icons/9x9/arrowright.gif';
+  }
+</script>
+<span id="moreFilesIFrameContainer" style="display:none;">
+
+</span>
+<br />
+
+        
+
+
+
+
+
+
+        
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <b class="big green">Related Files</b>
+  
+
+<table cellpadding="0" cellspacing="0" width="100%">
+    <tr><td class="box1tl"></td><td class="box1t"></td><td class="box1tr"></td></tr>
+    <tr>
+        <td class="box1l"></td>
+        <td class="box1c">
+
+<table cellpadding="0" cellspacing="0" width="100%">
+    
+          <tr align="center">
+            <td width="55" height="60">
+              
+                <div class="rficon">
+                      <a href="http://www.4shared.com/file/72118526/22b64de3/Leandro_Batista_-_Ficha_de_Gurps.html"
+                         title="Leandro Batista - Ficha de Gurps.pdf"
+                         style="background:url(http://dc20.4shared.com/img/72118526/22b64de3/Leandro_Batista_-_Ficha_de_Gurps.pdf?sizeM=2) #FFFFFF no-repeat center center;"
+                              ><img alt="Leandro Batista - Ficha de Gurps.pdf" src="http://www.4shared.com/icons/16x16/pdf.gif" width="16" height="16" class="absmid" vspace="1" hspace="1" /></a>
+                </div>
+
+
+              
+            </td>
+            <td width="10">&nbsp;</td>
+            <td align="left">
+              <div class="hideLong rc">
+                <b><a href="http://www.4shared.com/file/72118526/22b64de3/Leandro_Batista_-_Ficha_de_Gurps.html" title="Leandro Batista - Ficha de Gurps.pdf" class="bluelink">Leandro Batista - Ficha de Gurps.pdf</a></b>
+              <div style="margin-top:3px" class="small">
+                <span class="lgrey">by:</span>
+                              
+                                <a href="http://www.4shared.com/u/vqmrqpm/ab6f3ca6/mestremeyergmailcom.html" class="greylink1">mestre.meyer</a>
+                              
+              </div>
+              </div>
+            </td>
+          </tr>
+          <tr>
+              <td colspan="3">
+                  <div style="border-bottom:dotted 1px #9E9E9E"></div>
+              </td>
+          </tr>
+
+    
+          <tr align="center">
+            <td width="55" height="60">
+              
+                <div class="rficon">
+                      <a href="http://www.4shared.com/file/71238347/cada9d12/Ficha-GURPS_4th_for_doomes_-_Portugs.html"
+                         title="Ficha-GURPS 4th for doomes - Portugês.pdf"
+                         style="background:url(http://dc48.4shared.com/img/71238347/cada9d12/Ficha-GURPS_4th_for_doomes_-_Portugs.pdf?sizeM=2) #FFFFFF no-repeat center center;"
+                              ><img alt="Ficha-GURPS 4th for doomes - Portugês.pdf" src="http://www.4shared.com/icons/16x16/pdf.gif" width="16" height="16" class="absmid" vspace="1" hspace="1" /></a>
+                </div>
+
+
+              
+            </td>
+            <td width="10">&nbsp;</td>
+            <td align="left">
+              <div class="hideLong rc">
+                <b><a href="http://www.4shared.com/file/71238347/cada9d12/Ficha-GURPS_4th_for_doomes_-_Portugs.html" title="Ficha-GURPS 4th for doomes - Portugês.pdf" class="bluelink">Ficha-GURPS 4th for doomes - Portugês.pdf</a></b>
+              <div style="margin-top:3px" class="small">
+                <span class="lgrey">by:</span>
+                              
+                                <a href="http://www.4shared.com/u/vpzpvgp/774cf8a2/lucianojedigmailcom.html" class="greylink1">luciano.jedi@gmail.com</a>
+                              
+              </div>
+              </div>
+            </td>
+          </tr>
+          <tr>
+              <td colspan="3">
+                  <div style="border-bottom:dotted 1px #9E9E9E"></div>
+              </td>
+          </tr>
+
+    
+          <tr align="center">
+            <td width="55" height="60">
+              
+                <div class="rficon">
+                      <a href="http://www.4shared.com/file/70878846/43e4cc77/GURPS_Mafia_Policial_Corrupto_01.html"
+                         title="GURPS_Mafia_Policial_Corrupto_01.pdf"
+                         style="background:url(http://dc101.4shared.com/img/70878846/43e4cc77/GURPS_Mafia_Policial_Corrupto_01.pdf?sizeM=2) #FFFFFF no-repeat center center;"
+                              ><img alt="GURPS_Mafia_Policial_Corrupto_01.pdf" src="http://www.4shared.com/icons/16x16/pdf.gif" width="16" height="16" class="absmid" vspace="1" hspace="1" /></a>
+                </div>
+
+
+              
+            </td>
+            <td width="10">&nbsp;</td>
+            <td align="left">
+              <div class="hideLong rc">
+                <b><a href="http://www.4shared.com/file/70878846/43e4cc77/GURPS_Mafia_Policial_Corrupto_01.html" title="GURPS_Mafia_Policial_Corrupto_01.pdf" class="bluelink">GURPS_Mafia_Policial_Corrupto_01.pdf</a></b>
+              <div style="margin-top:3px" class="small">
+                <span class="lgrey">by:</span>
+                              
+                                <a href="http://www.4shared.com/u/vqmrqpm/ab6f3ca6/mestremeyergmailcom.html" class="greylink1">mestre.meyer</a>
+                              
+              </div>
+              </div>
+            </td>
+          </tr>
+          <tr>
+              <td colspan="3">
+                  <div style="border-bottom:dotted 1px #9E9E9E"></div>
+              </td>
+          </tr>
+
+    
+          <tr align="center">
+            <td width="55" height="60">
+              
+                <div class="rficon">
+                      <a href="http://www.4shared.com/file/70612604/19ef31e1/GURPS_Mafia_Promotor_Justia.html"
+                         title="GURPS_Mafia_Promotor_Justiça.pdf"
+                         style="background:url(http://dc93.4shared.com/img/70612604/19ef31e1/GURPS_Mafia_Promotor_Justia.pdf?sizeM=2) #FFFFFF no-repeat center center;"
+                              ><img alt="GURPS_Mafia_Promotor_Justiça.pdf" src="http://www.4shared.com/icons/16x16/pdf.gif" width="16" height="16" class="absmid" vspace="1" hspace="1" /></a>
+                </div>
+
+
+              
+            </td>
+            <td width="10">&nbsp;</td>
+            <td align="left">
+              <div class="hideLong rc">
+                <b><a href="http://www.4shared.com/file/70612604/19ef31e1/GURPS_Mafia_Promotor_Justia.html" title="GURPS_Mafia_Promotor_Justiça.pdf" class="bluelink">GURPS_Mafia_Promotor_Justiça.pdf</a></b>
+              <div style="margin-top:3px" class="small">
+                <span class="lgrey">by:</span>
+                              
+                                <a href="http://www.4shared.com/u/vqmrqpm/ab6f3ca6/mestremeyergmailcom.html" class="greylink1">mestre.meyer</a>
+                              
+              </div>
+              </div>
+            </td>
+          </tr>
+          <tr>
+              <td colspan="3">
+                  <div style="border-bottom:dotted 1px #9E9E9E"></div>
+              </td>
+          </tr>
+
+    
+          <tr align="center">
+            <td width="55" height="60">
+              
+                <div class="rficon">
+                      <a href="http://www.4shared.com/file/70344825/eb060fe0/GURPS_3e_portugues_BR.html"
+                         title="GURPS 3e portugues BR.pdf"
+                         style="background:url(http://dc37.4shared.com/img/70344825/eb060fe0/GURPS_3e_portugues_BR.pdf?sizeM=2) #FFFFFF no-repeat center center;"
+                              ><img alt="GURPS 3e portugues BR.pdf" src="http://www.4shared.com/icons/16x16/pdf.gif" width="16" height="16" class="absmid" vspace="1" hspace="1" /></a>
+                </div>
+
+
+              
+            </td>
+            <td width="10">&nbsp;</td>
+            <td align="left">
+              <div class="hideLong rc">
+                <b><a href="http://www.4shared.com/file/70344825/eb060fe0/GURPS_3e_portugues_BR.html" title="GURPS 3e portugues BR.pdf" class="bluelink">GURPS 3e portugues BR.pdf</a></b>
+              <div style="margin-top:3px" class="small">
+                <span class="lgrey">by:</span>
+                              
+                                <a href="http://www.4shared.com/u/zzqqggm/bb4eb4cc/cadastrosdemagnohotmailcom.html" class="greylink1">cadastrosdemagno</a>
+                              
+              </div>
+              </div>
+            </td>
+          </tr>
+          <tr>
+              <td colspan="3">
+                  <div style="border-bottom:dotted 1px #9E9E9E"></div>
+              </td>
+          </tr>
+
+    
+
+</table>
+
+<div style="padding:5px 0;text-align:right;" class="small green">
+    <b><a href="/network/search.jsp?searchmode=2&searchName=gurps">more files &gt;&gt;</a></b>
+</div>
+
+        </td>
+        <td class="box1r"></td>
+    </tr>
+    <tr><td class="box1bl"></td><td class="box1b"></td><td class="box1br"></td></tr>
+</table>
+
+
+                  <br />
+        
+        
+              
+
+
+<table cellpadding="0" cellspacing="0" width="100%">
+    <tr><td class="boxtl"></td><td class="boxt"></td><td class="boxtr"></td></tr>
+    <tr>
+        <td class="boxl"></td>
+        <td class="boxc small">
+            <table cellpadding="0" cellspacing="7" width="100%">
+                <tr>
+                    <td></td>
+                    <td class="blue"><b>morte@walmonof.com.br:</b></td>
+                </tr>
+                <tr>
+                    <td width="16"><img src="/icons/16x16/root.gif" alt="" width="16" height="16" /></td>
+                    <td class="small">
+                        <a href="javascript:goto('/account/home.jsp');" class="greylink">Go to your 4shared account</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="/images/icons/16x16/profile.gif" alt="" width="16" height="16" /></td>
+                    <td class="small">
+                        <a href="javascript:goto('/account/myAccount.jsp?startPage=6');" class="greylink">Edit your profile</a>
+                    </td>
+                </tr>
+
+                
+                <tr>
+                    <td><img src="/images/icons/16x16/restore.gif" alt="" width="16" height="16" /></td>
+                    <td class="small">
+                      <a href="javascript:premiumUpgrade()" class="greylink">Upgrade your plan to premium</a>
+                    </td>
+                </tr>
+                
+
+                <tr>
+                    <td><img src="/images/icons/16x16/logout.gif" alt="" width="16" height="16" /></td>
+                    <td class="small">
+                        <a href="javascript:signOut()" class="greylink">Sign out</a>
+                    </td>
+                </tr>
+            </table>
+
+
+            
+
+        </td>
+        <td class="boxr"></td>
+    </tr>
+    <tr><td class="boxbl"></td><td class="boxb"></td><td class="boxbr"></td></tr>
+</table>
+
+        
+              </div>
+          </td>
+      </tr>
+  </table>
+
+  <script type="text/javascript" src="/js/adlogger_tracker.js?ver=4882" language="javascript" ></script>
+
+  <br /><br />
+  
+
+
+
+
+
+<div class="footer" style="margin-bottom:1px;padding:10px">
+    
+
+<script type="text/javascript">
+  
+
+  function includeSearchOnSubmit(form){
+    if( form.searchExtention.options[form.searchExtention.selectedIndex].value=='' ){
+      form.searchmode.value=2;
+    }else{
+      form.searchmode.value=3;
+    }
+    return true;
+  }
+
+</script>
+<form action="/network/search.jsp" method="get" onsubmit="return includeSearchOnSubmit(this)">
+  <input type="text" name='searchName' class="field" style="width:240px" />&nbsp;
+  <select class="field absmid" name='searchExtention'>
+      <option value="" selected="selected">Any</option>
+      <option value="category:1">Music</option>
+      <option value="category:2">Video</option>
+      <option value="jpg">Photo</option>
+      <option value="category:5">Books</option>
+  </select>&nbsp;
+  <input type="submit" name='submit' value="Search" class="button" />
+  <input type='hidden' name='searchmode' />
+</form>
+
+
+</div>
+
+<div class="footer">
+    <a href="http://www.4shared.com/enterprise/">Enterprise</a>&nbsp; |&nbsp;
+    <a href="http://www.4shared.com/network/search.jsp">Search</a>&nbsp; |&nbsp;
+    <a href="http://www.4shared.com/file_sharing.jsp">File Sharing</a>&nbsp; |&nbsp;
+    <a href="http://www.4shared.com/share_music.jsp">Music Sharing</a>&nbsp; |&nbsp;
+    <a href="http://www.4shared.com/share_photo.jsp">Photo Sharing</a>&nbsp; |&nbsp;
+    <a href="http://www.4shared.com/share_video.jsp">Video Sharing</a>&nbsp; |&nbsp;
+    <a href="http://www.4shared.com/share_document.jsp">Document Sharing</a>&nbsp; |&nbsp;
+    <a href="http://www.4shared.com/uploader/">Uploader</a>&nbsp; |&nbsp;
+    <a href="http://www.4shared.com/features.jsp">Features</a>&nbsp; |&nbsp;
+    <a href="http://www.4shared.com/pricing.jsp">Pricing</a><br />
+    <a href="http://www.4shared.com/tutorial/">Quick Tour</a>&nbsp; |&nbsp;
+    <a href="http://www.4shared.com/login.jsp">Login</a>&nbsp; |&nbsp;
+    <a href="http://www.4shared.com/terms.jsp">Terms of Use</a>&nbsp; |&nbsp;
+    <a href="http://www.4shared.com/privacy.jsp">Privacy</a>&nbsp; |&nbsp;
+    <a href="http://www.4shared.com/contact.jsp">Contact Us</a>&nbsp; |&nbsp;
+    <a href="http://www.4shared.com/company.jsp">Company</a>&nbsp; |&nbsp;
+    <a href="http://www.4shared.com/advertise/">Advertising</a>&nbsp; |&nbsp;
+    <a href="http://www.4shared.com/affiliate/">Affiliate</a>&nbsp; |&nbsp;
+    <a href="http://www.4shared.com/links.jsp">Link to Us</a>&nbsp; |&nbsp;
+    <a href="http://www.4shared.com/news.jsp">News</a>&nbsp; |&nbsp;
+    <a href="http://forum.4shared.com/">Forum</a>
+</div>
+<div class="copy">
+    Copyright &copy; 2005-2008 4shared.com 
+</div>
+
+<!-- www.currDcID=61 -->
+</td>
+</tr>
+</table>
+
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=4135125;
+var sc_invisible=1;
+var sc_partition=51;
+var sc_click_stat=1;
+var sc_security="e8ecc2ac";
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div class="statcounter"><a title="free hit counter" href="http://www.statcounter.com/free_hit_counter.html" target="_blank"><img class="statcounter" src="http://c.statcounter.com/4135125/0/e8ecc2ac/1/" alt="free hit counter" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-306602-1";
+urchinTracker();
+</script>
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<img src='http://counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' width=1 height=1 alt='' style='display:none'>")//--></script><!--/LiveInternet-->
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-23Fqia_-MkKko";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-23Fqia_-MkKko" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-23Fqia_-MkKko.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+
+
+
+  <script type="text/javascript">
+      var cntdp933924323 = new Image().src = 'http://www.4shared.com/ads/countdp?fid=62144768';
+  </script>
+
+  
+
+
+
+
+
+<div id="dragDiv">
+  <div id="handle">
+    <table cellpadding="1" cellspacing="0" width="100%">
+      <tr>
+        <td>&nbsp;<span id="popupTitle">Preview</span></td>
+        <td align="right"><a href="javascript: void writeDrag.hide()" style="float:right"><img class="xBox" src="/images/icons/16x16/close.gif" width="16" height="16" alt="X" border="0" title="Close box"></a></td>
+      </tr>
+    </table>
+  </div>
+  <div id="cntnt" style="padding:6px"></div>
+</div>
+
+
+  </body>
+</html>
+

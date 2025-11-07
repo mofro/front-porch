@@ -5,39 +5,36 @@ session_number: 5
 tags:
   - combat
   - exploration
-  - child_breakers
+  - c_breakers
   - fortress
 people:
-  - "Ferguson MacJayne"
-  - "Jos"
-  - "Rupus Thatch"
-  - "Vidocq"
-  - "Ahira"
-  - "Alvion"
-  - "Quia"
+  - Ferguson MacJayne
+  - Jos
+  - Rupus Thatch
+  - Vidocq
+  - Ahira
+  - Alvion
+  - Quia
 places:
-  - "High Fens"
-  - "Rockfort"
-  - "Child Breakers Fortress"
+  - High Fens
+  - Rockfort
+  - C Breakers Fortress
 things:
-  - "Crossbow"
-  - "Healing Potions"
-  - "Spider Silk"
-prev_session: "2024-06-01 Asterion Log"
-next_session: "2024-07-27 Asterion Log"
-campaign_arc: "The Child Breakers"
+  - Crossbow
+  - Healing Potions
+  - Spider Silk
+prev_session: 2024-06-01 Asterion Log
+next_session: 2024-07-27 Asterion Log
+campaign_arc: The C Breakers
 ---
-
 # 2024-07 Asterion Log
-*Original Date: July 6, 2024*
-*Session Five: Assault on the Fortress*
-
+## Session Five: Assault on the Fortress
 ## Summary
-Having learned the location of the [[Dramatis-Personae#Child Breakers|Child Breakers]]' fortress in the [[Places-of-Asterion#High Fens|High Fens]], the companions mount a direct assault on the stronghold. Approaching through dense forest, they engage the fortress's outer defenses, facing guards and discovering evidence of the evil operations within. The battle tests their resolve as they push deeper into enemy territory.
+Having learned the location of the [[Dramatis-Personae#C Breakers|C Breakers]]' fortress in the [[Places-of-Asterion#High Fens|High Fens]], the companions mount a direct assault on the stronghold. Approaching through dense forest, they engage the fortress's outer defenses, facing guards and discovering evidence of the evil operations within. The battle tests their resolve as they push deeper into enemy territory.
 
 ## Chapter 7 – Into the High Fens
 
-Following their departure from [[Places-of-Asterion#Wassford|Wassford]] and [[Dramatis-Personae#Colthan|Colthan]]'s intelligence about the [[Dramatis-Personae#Child Breakers|Child Breakers]]' stronghold, the companions make their way into the rugged wilderness of the [[Places-of-Asterion#High Fens|High Fens]]. The journey takes them through increasingly hostile terrain - dense woods, boggy marshes, and volcanic hot springs that make the region uniquely inhospitable.
+Following their departure from [[Places-of-Asterion#Wassford|Wassford]] and [[Dramatis-Personae#Colthan|Colthan]]'s intelligence about the [[Dramatis-Personae#C Breakers|C Breakers]]' stronghold, the companions make their way into the rugged wilderness of the [[Places-of-Asterion#High Fens|High Fens]]. The journey takes them through increasingly hostile terrain - dense woods, boggy marshes, and volcanic hot springs that make the region uniquely inhospitable.
 
 [[Dramatis-Personae#Ahira|Ahira]] leads the way, his dwarven knowledge of underground passages and mountain terrain proving invaluable as they navigate the treacherous paths. [[Dramatis-Personae#Vidocq|Vidocq]], despite his blindness, proves equally adept at sensing danger ahead, his other senses heightened to preternatural levels.
 
@@ -97,11 +94,11 @@ The second soldier backs away, fear evident in his eyes. This isn't what he sign
 
 ## Discovery
 
-Inside the main building, [[Dramatis-Personae#Jos|Jos]]'s group has found what they feared - a workshop where the horrific "child breaking" is performed. Tools designed to maim rather than kill are arranged on a table with clinical precision. Restraints are bolted to a heavy chair. The walls bear stains that speak to the room's grim purpose.
+Inside the main building, [[Dramatis-Personae#Jos|Jos]]'s group has found what they feared - a workshop where the horrific "C breaking" is performed. Tools designed to maim rather than kill are arranged on a table with clinical precision. Restraints are bolted to a heavy chair. The walls bear stains that speak to the room's grim purpose.
 
 [[Dramatis-Personae#Alvion Naeeries|Alvion]] turns away, looking ill. Even [[Dramatis-Personae#Vidocq|Vidocq]], who cannot see the details, can sense the evil that has been done here. [[Dramatis-Personae#Quia|Quia]] hisses softly, her dragon nature recognizing a fundamental wrongness in this place.
 
-[[Dramatis-Personae#Jos|Jos]]'s face is set in hard lines as she methodically searches the room for evidence. They'll need proof to present to authorities - assuming any authority cares about the fate of orphaned children. She finds documents hidden in a desk drawer - correspondence between the [[Dramatis-Personae#Child Breakers|Child Breakers]] here and their contacts in various cities, including [[Places-of-Asterion#Lutetia|Lutetia]].
+[[Dramatis-Personae#Jos|Jos]]'s face is set in hard lines as she methodically searches the room for evidence. They'll need proof to present to authorities - assuming any authority cares about the fate of orphaned children. She finds documents hidden in a desk drawer - correspondence between the [[Dramatis-Personae#C Breakers|C Breakers]] here and their contacts in various cities, including [[Places-of-Asterion#Lutetia|Lutetia]].
 
 A floorboard creaks behind them. [[Dramatis-Personae#Vidocq|Vidocq]] spins, his enhanced senses having caught the sound an instant before it occurred. A figure stands in the doorway - one of the better-dressed individuals they've seen here, clearly someone of importance in the organization.
 
@@ -121,7 +118,7 @@ He goes down hard, the fight leaving him. [[Dramatis-Personae#Vidocq|Vidocq]] st
 
 The man's eyes widen. "Below," he gasps. "The caves below. But you'll never—"
 
-He doesn't finish. [[Dramatis-Personae#Vidocq|Vidocq]]'s blade slides home efficiently, ending the man's involvement in the [[Dramatis-Personae#Child Breakers|Child Breakers]]' evil.
+He doesn't finish. [[Dramatis-Personae#Vidocq|Vidocq]]'s blade slides home efficiently, ending the man's involvement in the [[Dramatis-Personae#C Breakers|C Breakers]]' evil.
 
 ## Regrouping
 
@@ -135,7 +132,7 @@ The sounds of combat from outside have diminished. [[Dramatis-Personae#Jos|Jos]]
 
 [[Dramatis-Personae#Rupus Thatch|Rupus]] examines the floor, finding what they're looking for - a concealed trapdoor leading down. Ancient stone steps descend into darkness, worn smooth by countless feet over the years.
 
-The group prepares themselves, healing their wounds and readying weapons and spells. Whatever awaits them below, they know it will be worse than what they've faced so far. The [[Dramatis-Personae#Child Breakers|Child Breakers]]' operation goes deeper than simple cruelty - there are connections to the [[Places-of-Asterion#Underworld|Underworld]] itself.
+The group prepares themselves, healing their wounds and readying weapons and spells. Whatever awaits them below, they know it will be worse than what they've faced so far. The [[Dramatis-Personae#C Breakers|C Breakers]]' operation goes deeper than simple cruelty - there are connections to the [[Places-of-Asterion#Underworld|Underworld]] itself.
 
 [[Dramatis-Personae#Ahira|Ahira]] lights a torch, his darkvision supplemented by mundane light for the benefit of his companions. [[Dramatis-Personae#Ferguson MacJayne|MacJayne]] takes the lead, his massive frame filling the narrow passage. Behind him, the others follow in single file.
 
@@ -145,16 +142,16 @@ The stairs wind downward, deeper than any natural cave should go. The air grows 
 
 [[Dramatis-Personae#Vidocq|Vidocq]] pauses, his head tilted. "Something ahead," he whispers. "Something large. And something... other."
 
-[[Dramatis-Personae#Rupus Thatch|Rupus]] nods, sensing it too through his magical awareness. Dark energies permeate these tunnels, older than the [[Dramatis-Personae#Child Breakers|Child Breakers]]' recent occupation.
+[[Dramatis-Personae#Rupus Thatch|Rupus]] nods, sensing it too through his magical awareness. Dark energies permeate these tunnels, older than the [[Dramatis-Personae#C Breakers|C Breakers]]' recent occupation.
 
 They continue forward, weapons ready, magic prepared. The passage opens into a larger chamber ahead, and they can hear movement within - multiple creatures, by the sound of it.
 
-The battle for the [[Dramatis-Personae#Child Breakers|Child Breakers]]' fortress is won. But the fight to end their operations completely has only just begun.
+The battle for the [[Dramatis-Personae#C Breakers|C Breakers]]' fortress is won. But the fight to end their operations completely has only just begun.
 
 ## Related Events
-- See also: [[Logs/2024-06-01 Asterion Log]] - Learning about the [[Dramatis-Personae#Child Breakers|Child Breakers]] and planning the assault
+- See also: [[Logs/2024-06-01 Asterion Log]] - Learning about the [[Dramatis-Personae#C Breakers|C Breakers]] and planning the assault
 - Connection to [[Logs/2024-07-27 Asterion Log]] - Continuation in the Maestro's lair
 - Discovery of the [[Places-of-Asterion#Underworld|Underworld]] connection
 
 ---
-*The flames from [[Dramatis-Personae#Rupus Thatch|Rupus]]'s spells still flickered in the courtyard above as the companions descended into darkness. They had dealt a blow to the [[Dramatis-Personae#Child Breakers|Child Breakers]], but [[Dramatis-Personae#Jos|Jos]] knew from bitter experience that evil like this had deep roots. The "Maestro" awaited below, and with him, answers to questions they hadn't yet thought to ask.*
+*The flames from [[Dramatis-Personae#Rupus Thatch|Rupus]]'s spells still flickered in the courtyard above as the companions descended into darkness. They had dealt a blow to the [[Dramatis-Personae#C Breakers|C Breakers]], but [[Dramatis-Personae#Jos|Jos]] knew from bitter experience that evil like this had deep roots. The "Maestro" awaited below, and with him, answers to questions they hadn't yet thought to ask.*

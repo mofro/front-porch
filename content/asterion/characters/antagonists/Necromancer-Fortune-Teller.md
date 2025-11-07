@@ -1,9 +1,11 @@
 ---
 tags: 
+
   - Antagonists 
   - Supernatural 
   - Deceased 
   - Undead
+
 ---
 
 # The Necromancer (Fortune-Teller)
@@ -44,12 +46,14 @@ Located in old pagan temple ruins near [[Places-of-Asterion#Stamp|Stamp]]
 
 ## Significance
 
-- Demonstrated necromantic threat in the region beyond the [[Dramatis-Personae#Child Breakers|Child Breakers]]
+- Demonstrated necromantic threat in the region beyond the [[Dramatis-Personae#C Breakers|C Breakers]]
+
 ## First Appearance
-- [[/asterion/Logs/2024-08-31-Asterion-Log#Chapter 10 – Circus Of The Dead|2024-08-31 Asterion Log]]
+
+- [[/Logs/2024-08-31-Asterion-Log#Chapter 10 – Circus Of The Dead|2024-08-31 Asterion Log]]
 
 ## Connections
 
-- Related to: [[Dramatis-Personae#Child Breakers|Child Breakers]]
+- Related to: [[Dramatis-Personae#C Breakers|C Breakers]]
 - Related to: [[Dramatis-Personae#Ursula the Dancing Bear|Ursula the bear]]
 - Related to: [[Dramatis-Personae#Jos|Jos]]

@@ -1,8 +1,10 @@
 ---
 title: "Aerlene"
 tags:
+
   - LocalTownsfolk
   - InformationSources
+
 ---
 
 ## Overview
@@ -24,4 +26,3 @@ Alewife in St. Victor who provides valuable information to the companions.
 ## First Appearance
 
 [[Logs/2025-02-15 Asterion Log]]
-

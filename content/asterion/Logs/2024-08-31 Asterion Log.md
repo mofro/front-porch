@@ -75,7 +75,7 @@ The remains quickly reduced to ash, the group returns once more to the entry cha
 ## Related Events
 - See also: [[Logs/2024-05-10 Asterion Log]] - First exploration of the tomb
 - Connection to the "[[Artifacts-&-Treasures#Veil of Elphame|Veil of Elphame]]" quest line
-- Connection to the [[Dramatis-Personae#Child Breakers|Child Breakers]] through similar potions
+- Connection to the [[Dramatis-Personae#C Breakers|C Breakers]] through similar potions
 
 ---
 *As the entrance to deeper chambers within the tomb yawned before them, a chill breeze whispered up from the darkness, carrying scents of ancient stone and forgotten secrets. Whatever lay below had been sealed away for centuries, waiting for someone to solve the riddle of the headless queen.*

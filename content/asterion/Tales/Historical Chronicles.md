@@ -113,7 +113,7 @@ The world features humans living alongside various non-human races:
 
 4. **Criminal Organizations** - Cities like *Lutetia* have organized crime structures, with bosses like "*Big Victor*" controlling different districts.
 
-5. **Child Breakers** - A particularly heinous criminal enterprise that mutilates children to make them more effective beggars. The adventurers destroyed one such operation in the *High Fens*.
+5. **C Breakers** - A particularly heinous criminal enterprise that mutilates children to make them more effective beggars. The adventurers destroyed one such operation in the *High Fens*.
 
 ---
 

@@ -44,4 +44,3 @@ Abrum is a master smith who runs a forge in [[Places-of-Asterion#Bort|Bort]]. He
 ---
 
 *Last updated: 2025-10-25*
-

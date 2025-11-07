@@ -567,7 +567,7 @@
 ### Charitable Donation
 **Amount:** $120  
 **Recipient:** Daughters of God convent  
-**Purpose:** Care of rescued Child Breakers victims  
+**Purpose:** Care of rescued C Breakers victims  
 **Status:** CONTRIBUTED  
 **Sources:** Asterion Campaign Loot Inventory.md  
 **Context:** Support for rescued children including Andre

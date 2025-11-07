@@ -149,22 +149,22 @@
 - **[[Dramatis-Personae#Nierynwen Malbrinryl|Nierynwen]]'s Escape:** Bandit Queen flees pursuit by King's Guard
 
 
-### Session Four - Pursuit of the Child Breakers (June 1226)
+### Session Four - Pursuit of the C Breakers (June 1226)
 - **Return to Lutetia:** Companions conclude tomb expedition and seek answers
-- **Meeting with [[Dramatis-Personae#Colthan|Colthan]]:** [[Dramatis-Personae#Jos|Jos]]'s mentor reveals [[Dramatis-Personae#Hanmer|Hanmer]]'s connection to [[Dramatis-Personae#Child Breakers|Child Breakers]]
+- **Meeting with [[Dramatis-Personae#Colthan|Colthan]]:** [[Dramatis-Personae#Jos|Jos]]'s mentor reveals [[Dramatis-Personae#Hanmer|Hanmer]]'s connection to [[Dramatis-Personae#C Breakers|C Breakers]]
 - **[[Dramatis-Personae#Corin Quickpath|Corin Quickpath]] History:** Full background revealed - farmer to scout to [[Dramatis-Personae#Aramaina Faelandaerl|Aramaina]]'s lover to betrayer
-- **Child Rescue Mission:** Discovery and liberation of [[Dramatis-Personae#Andre|Andre]] and other victims
+- **C Rescue Mission:** Discovery and liberation of [[Dramatis-Personae#Andre|Andre]] and other victims
 - **[[Places-of-Asterion#Daughters of God|Daughters of God]] Sanctuary:** Rescued children placed in convent care with $120 donation
-- **[[Dramatis-Personae#Big Victor|Big Victor]] Alliance:** Agreement with crime boss to oppose [[Dramatis-Personae#Child Breakers|Child Breakers]] network
+- **[[Dramatis-Personae#Big Victor|Big Victor]] Alliance:** Agreement with crime boss to oppose [[Dramatis-Personae#C Breakers|C Breakers]] network
 - **[[Dramatis-Personae#Hanmer|Hanmer]]'s Flight:** Crime boss flees [[Places-of-Asterion#Lutetia|Lutetia]] ahead of gang partition
-- **[[Places-of-Asterion#High Fens|High Fens]] Mission:** Decision to pursue [[Dramatis-Personae#Child Breakers|Child Breakers]] to their fortress stronghold
+- **[[Places-of-Asterion#High Fens|High Fens]] Mission:** Decision to pursue [[Dramatis-Personae#C Breakers|C Breakers]] to their fortress stronghold
 
 
-### Session Five - Assault on the Child Breakers (July 1226)
+### Session Five - Assault on the C Breakers (July 1226)
 - **Border Crossing:** Journey through toll-heavy [[Places-of-Asterion#Namen|Namen]] territory
 - **[[Dramatis-Personae#Baron Matthias of Overland|Baron Matthias of Overland]] Intelligence:** Discovery of [[Dramatis-Personae#Aramaina Faelandaerl|Aramaina]]'s killer in the region
 - **[[Places-of-Asterion#Rockfort|Rockfort]] Investigations:** Surveillance reveals suspicious spider silk trade
-- **[[Places-of-Asterion#Child Breakers Fortress|Child Breakers Fortress]] Located:** Discovery of restored motte and bailey stronghold
+- **[[Places-of-Asterion#C Breakers Fortress|C Breakers Fortress]] Located:** Discovery of restored motte and bailey stronghold
 - **Fortress Assault:** Successful attack, 6 children rescued from captivity
 - **Underground Access:** Discovery of hollow tree shaft leading to subterranean levels
 - **The Maestro:** Evidence of underground leadership structure
@@ -172,17 +172,17 @@
 
 
 ### Session Six - The Maestro's Lair (August 1226)
-- **Underground Descent:** Companions pursue fleeing [[Dramatis-Personae#Child Breakers|Child Breakers]] into cave system
+- **Underground Descent:** Companions pursue fleeing [[Dramatis-Personae#C Breakers|C Breakers]] into cave system
 - **[[Dramatis-Personae#The Maestro (Orc Shaman)|The Maestro (Orc Shaman)]] Confronted:** Battle with ancient orc shaman controlling operation
 - **Mind Control Magic:** [[Dramatis-Personae#Ferguson MacJayne|MacJayne]]'s sword arm turned against him by enemy spells
 - **Ogre Guards Defeated:** Three ogres serving the shaman killed in underground battle
-- **Ritual Chamber Discovered:** Evidence of dark magic, child imprisonment, Underworld connections
+- **Ritual Chamber Discovered:** Evidence of dark magic, C imprisonment, Underworld connections
 - **[[Artifacts-&-Treasures#Underworld Glyph|Underworld Glyph]] Found:** Discovery of tunnel network markers linking broader underground realm
 - **[[Artifacts-&-Treasures#Soapstone Box|Soapstone Box]] Acquired:** Magical storage container with healing potions and supplies
 - **[[Dramatis-Personae#Baron Matthias of Overland|Baron Matthias of Overland]] Arrives:** Personal intervention by the "Slayer of the Elf Queen"
-- **Swift Justice:** Execution of four [[Dramatis-Personae#Child Breakers|Child Breakers]] associates in [[Places-of-Asterion#Rockfort|Rockfort]] square
+- **Swift Justice:** Execution of four [[Dramatis-Personae#C Breakers|C Breakers]] associates in [[Places-of-Asterion#Rockfort|Rockfort]] square
 - **[[Dramatis-Personae#Aramaina Faelandaerl|Aramaina]]'s Death Details:** [[Dramatis-Personae#Baron Matthias of Overland|Matthias]] describes killing [[Dramatis-Personae#Aramaina Faelandaerl|Aramaina]] with heavy maul
-- **[[Dramatis-Personae#Child Breakers|Child Breakers]] Campaign Complete:** Evil network destroyed, children rescued, justice served
+- **[[Dramatis-Personae#C Breakers|C Breakers]] Campaign Complete:** Evil network destroyed, children rescued, justice served
 
 ### Session Twelve - Claiming the Bounty (July 1226)
 - **Audience with [[Dramatis-Personae#Countess Alix of Ludonum|Countess Alix]]:** Tower's history revealed, rewards negotiated

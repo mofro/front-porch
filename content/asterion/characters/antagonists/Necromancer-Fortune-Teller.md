@@ -1,9 +1,11 @@
 ---
 tags: 
+
   - Antagonists 
   - Supernatural 
   - Deceased 
   - Undead
+
 ---
 
 # The Necromancer (Fortune-Teller)
@@ -45,8 +47,10 @@ Located in old pagan temple ruins near [[Places-of-Asterion#Stamp|Stamp]]
 ## Significance
 
 - Demonstrated necromantic threat in the region beyond the [[Dramatis-Personae#C Breakers|C Breakers]]
+
 ## First Appearance
-- [[/asterion/Logs/2024-08-31-Asterion-Log#Chapter 10 – Circus Of The Dead|2024-08-31 Asterion Log]]
+
+- [[/Logs/2024-08-31-Asterion-Log#Chapter 10 – Circus Of The Dead|2024-08-31 Asterion Log]]
 
 ## Connections
 

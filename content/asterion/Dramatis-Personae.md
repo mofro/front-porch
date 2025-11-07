@@ -3,61 +3,42 @@
 
 ---
 
-## Allied NPCs and Craftsmen
-
-### Abrum
-
-![[asterion/characters/npcs/Abrum]]
-
----
-
-### Brother Fulton
-
-![[asterion/characters/npcs/Brother-Fulton]]
-
----
-
-### Alinor
-
-![[asterion/characters/npcs/Alinor]]
-
----
 
 ## The Fellowship of Heroes
 
 ### Ahira
 
-![[asterion/characters/Ahira]]
+![[Ahira]]
 
 ---
 
 ### Alvion Naeeries
 
-![[asterion/characters/Alvion-Naeeries]]
+![[Alvion-Naeeries]]
 
 ---
 
 ### Ferguson MacJayne
 
-![[asterion/characters/Ferguson-MacJayne]]
+![[Ferguson-MacJayne]]
 
 ---
 
 ### Jos
 
-![[asterion/characters/Jos]]
+![[chJos]]
 
 ---
 
 ### Rupus Thatch
 
-![[asterion/characters/Rupus-Thatch]]
+![[Rupus-Thatch]]
 
 ---
 
 ### Vidocq
 
-![[asterion/characters/Vidocq]]
+![[Vidocq]]
 
 ---
 
@@ -65,61 +46,80 @@
 
 ### Puddin'
 
-![[asterion/characters/companions/Puddin]]
+![[characters/companions/Puddin]]
 
 ---
 
 ### Quia
 
-![[asterion/characters/companions/Quia]]
+![[characters/companions/Quia]]
 
 ---
 
+## Allied NPCs and Craftsmen
+
+### Abrum
+
+![[/characters/npcs/Abrum]]
+
+---
+
+### Brother Fulton
+
+![[characters/npcs/Brother-Fulton]]
+
+---
+
+### Alinor
+
+![[characters/npcs/Alinor]]
+
+---
 ## Antagonists and Criminals
 
 ### Big Victor
 
-![[asterion/characters/antagonists/Big-Victor]]
+![[characters/antagonists/Big-Victor]]
 
 ---
 
 ### Hanmer
 
-![[asterion/characters/antagonists/Hanmer]]
+![[characters/antagonists/Hanmer]]
 
 ---
 
 ### Lucky Pete
 
-![[asterion/characters/antagonists/Lucky-Pete]]
+![[characters/antagonists/Lucky-Pete]]
 
 ---
 
 ### Nierynwen Malbrinryl
 
-![[asterion/characters/antagonists/Nierynwen-Malbrinryl]]
+![[characters/antagonists/Nierynwen-Malbrinryl]]
 
 ---
 
 ### Stoat
 
-![[asterion/characters/antagonists/Stoat]]
+![[characters/antagonists/Stoat]]
 
 ### The Maestro
 
-![[asterion/characters/antagonists/Maestro]]
+![[characters/antagonists/Maestro]]
 
 ---
 
 ### The C Breakers
 
-![[asterion/characters/antagonists/C-Breakers]]
+![[characters/antagonists/C-Breakers]]
 
 ---
 
 ### The Necromancer (Fortune-Teller)
 
-![[asterion/characters/antagonists/Necromancer-Fortune-Teller]]
+![[characters/antagonists/Necromancer-Fortune-Teller]]
 
 ## Organizations and Groups
 ### The Company of the Black Hand
@@ -128,116 +128,116 @@
 
 ### Aerlene
 
-![[asterion/characters/npcs/Aerlene]]
+![[characters/npcs/Aerlene]]
 
 ### Andre
 
-![[asterion/characters/npcs/Andre]]
+![[characters/npcs/Andre]]
 
 ### Blossom the Baboon
 
-![[asterion/characters/npcs/Blossom-the-Baboon]]
+![[characters/npcs/Blossom-the-Baboon]]
 
 ### Cedric
 
-![[asterion/characters/npcs/Cedric]]
+![[characters/npcs/Cedric]]
 
 ### Claude and Margaret
 
-![[asterion/characters/npcs/Claude-and-Margaret]]
+![[characters/npcs/Claude-and-Margaret]]
 
 ### Maud
 
-![[asterion/characters/npcs/Maud]]
+![[characters/npcs/Maud]]
 
 ### Ursula the Dancing Bear
 
-![[asterion/characters/npcs/Ursula-the-Dancing-Bear]]
+![[characters/npcs/Ursula-the-Dancing-Bear]]
 
 ## Elves and Other Non-Humans
 
 ### Pallikari
 
-![[asterion/characters/non-humans/Pallikari]]
+![[characters/non-humans/Pallikari]]
 
 ### Squire
-![[asterion/characters/non-humans/Squire]]
+![[characters/non-humans/Squire]]
 
 ## Historical Figures
 
 ### Aramaina Faelandaerl
 
-![[asterion/characters/historical-figures/Aramaina-Faelandaerl]]
+![[characters/historical-figures/Aramaina-Faelandaerl]]
 
 ### Indólion Malbrinryl
 
-![[asterion/characters/historical-figures/Indolion-Malbrinryl]]
+![[characters/historical-figures/Indolion-Malbrinryl]]
 
 ### Lord Rupus
 
-![[asterion/characters/nobility/Lord-Rupus]]
+![[characters/nobility/Lord-Rupus]]
 
 ### Lucius Calibus Ventis
 
-![[asterion/characters/historical-figures/Lucius-Calibus-Ventis]]
+![[characters/historical-figures/Lucius-Calibus-Ventis]]
 
 ### Lydaer Elentaurae
 
-![[asterion/characters/historical-figures/Lydaer-Elentaurae]]
+![[characters/historical-figures/Lydaer-Elentaurae]]
 
 ## Mentors and Background Figures
 
 ### Colthan
 
-![[asterion/characters/mentors/Colthan]]
+![[characters/mentors/Colthan]]
 
 ### Corin Quickpath
 
-![[asterion/characters/mentors/Corin-Quickpath]]
+![[characters/mentors/Corin-Quickpath]]
 
 ## Nobility and Court Officials
 
 ### Baron Astorg of Payr
 
-![[asterion/characters/nobility/Baron-Astorg-of-Payr]]
+![[characters/nobility/Baron-Astorg-of-Payr]]
 
 ### Baron Matthias of Overland
 
-![[asterion/characters/nobility/Baron-Matthias-of-Overland]]
+![[characters/nobility/Baron-Matthias-of-Overland]]
 
 ### Baron of Clearview
 
-![[asterion/characters/nobility/Baron-of-Clearview]]
+![[characters/nobility/Baron-of-Clearview]]
 
 ### Beatrice of Liguria
 
-![[asterion/characters/nobility/Beatrice-of-Liguria]]
+![[characters/nobility/Beatrice-of-Liguria]]
 
 ### Count Guy of Ludonum
 
-![[asterion/characters/nobility/Count-Guy-of-Ludonum]]
+![[characters/nobility/Count-Guy-of-Ludonum]]
 
 ### Countess Alix of Ludonum
 
-![[asterion/characters/nobility/Countess-Alix-of-Ludonum]]
+![[characters/nobility/Countess-Alix-of-Ludonum]]
 
 ### Karl
 
-![[asterion/characters/nobility/Karl]]
+![[characters/nobility/Karl]]
 
 ???+ note "King Jacob the Conqueror"
-    ![[asterion/characters/nobility/King-Jacob-the-Conqueror]]
+    ![[characters/nobility/King-Jacob-the-Conqueror]]
 
 ???+ note "King Ludovic"
-    ![[asterion/characters/nobility/King-Ludovic]]
+    ![[characters/nobility/King-Ludovic]]
 
 ## Religious Figures
 
 ???+ note "Bishop Odilon of Seart"
-    ![[asterion/characters/religious/Bishop-Odilon-of-Seart]]
+    ![[characters/religious/Bishop-Odilon-of-Seart]]
 
 ???+ note "Bishop Vivianus"
-    ![[asterion/characters/religious/Bishop-Vivianus]]
+    ![[characters/religious/Bishop-Vivianus]]
 
 ### Brother Oliver
 **Tags:** #Religious #Academics #InformationSources  
@@ -253,7 +253,7 @@
 **Role:** Initial Church contact for companions  
 **Attitude:** Limited resources but supportive of gorgon-slaying mission  
 **Services:** Offered blessing before quest, healing for any injured afterward  
-**First Appearance:** [2024-02-15](/Users/mo/Code/front-porch/content/asterion/Logs/2024-02-15%20Asterion%20Log.md)
+**First Appearance:** [2024-02-15](/Users/mo/Code/front-porch/content/Logs/2024-02-15%20Asterion%20Log.md)
 
 ### Renfred the Thracian
 **Tags:** #Religious #Inquisition #Antagonists  

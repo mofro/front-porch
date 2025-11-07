@@ -1,0 +1,493 @@
+{
+	"version": 5,
+	"id": "BGU259t5e-IAA6QyD",
+	"traits": [
+		{
+			"id": "TNf95aWhk53qrfKKt",
+			"name": "Dragon-Blooded",
+			"ancestry": "Human",
+			"container_type": "ancestry",
+			"children": [
+				{
+					"id": "tQljapBqqwOyrl1Bn",
+					"name": "Increased Strength",
+					"reference": "DFA8",
+					"tags": [
+						"Advantage",
+						"Attribute",
+						"Physical"
+					],
+					"points_per_level": 10,
+					"features": [
+						{
+							"type": "attribute_bonus",
+							"attribute": "st",
+							"amount": 1,
+							"per_level": true
+						}
+					],
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": 10
+					}
+				},
+				{
+					"id": "tKUAERDuq1SQ_zd8t",
+					"name": "Increased Will",
+					"reference": "DFA10",
+					"tags": [
+						"Advantage",
+						"Attribute",
+						"Mental"
+					],
+					"points_per_level": 5,
+					"features": [
+						{
+							"type": "attribute_bonus",
+							"attribute": "will",
+							"amount": 1,
+							"per_level": true
+						}
+					],
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": 5
+					}
+				},
+				{
+					"id": "tdxltD4AWvAnO_r6C",
+					"name": "Dragon's Breath",
+					"notes": "Spend 2 FP to breathe a 1-yard wide cone of flame",
+					"tags": [
+						"Physical"
+					],
+					"base_points": 12,
+					"weapons": [
+						{
+							"id": "W4Cbaga7O_amajv7G",
+							"damage": {
+								"type": "burn",
+								"st": "thr"
+							},
+							"usage_notes": "costs 2 FP per attack",
+							"range": "x0.5",
+							"rate_of_fire": "1",
+							"bulk": "-2",
+							"defaults": [
+								{
+									"type": "skill",
+									"name": "Innate Attack",
+									"specialization": "Breath"
+								}
+							],
+							"calc": {
+								"damage": "thr burn"
+							}
+						}
+					],
+					"calc": {
+						"points": 12
+					}
+				},
+				{
+					"id": "tTvTqDfUjAtGydvLj",
+					"name": "Elemental Resistance",
+					"tags": [
+						"Physical"
+					],
+					"points_per_level": 4,
+					"can_level": true,
+					"levels": 2,
+					"calc": {
+						"points": 8
+					}
+				},
+				{
+					"id": "tT7mKaIIJbnancIEb",
+					"name": "Nictitating Membrane",
+					"notes": "+1 to HT rolls concerning the eyes.",
+					"tags": [
+						"Physical"
+					],
+					"points_per_level": 1,
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"eye"
+							],
+							"amount": 1,
+							"per_level": true
+						}
+					],
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "t32uEzeIMhPcXPLvp",
+					"name": "Sharp Claws",
+					"reference": "DFA43",
+					"tags": [
+						"Advantage",
+						"Physical"
+					],
+					"base_points": 5,
+					"weapons": [
+						{
+							"id": "w4t1ZbH-QLxBvFecX",
+							"damage": {
+								"type": "cut",
+								"st": "thr",
+								"base": "-1"
+							},
+							"usage": "Slash",
+							"reach": "C",
+							"parry": "0",
+							"defaults": [
+								{
+									"type": "dx"
+								},
+								{
+									"type": "skill",
+									"name": "Brawling"
+								},
+								{
+									"type": "skill",
+									"name": "Boxing"
+								},
+								{
+									"type": "skill",
+									"name": "Karate"
+								}
+							],
+							"calc": {
+								"damage": "thr-1 cut"
+							}
+						},
+						{
+							"id": "wb1i3COCpA_RdILDk",
+							"damage": {
+								"type": "cut",
+								"st": "thr"
+							},
+							"usage": "Kick",
+							"reach": "C,1",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -2
+								},
+								{
+									"type": "skill",
+									"name": "Brawling",
+									"modifier": -2
+								},
+								{
+									"type": "skill",
+									"name": "Karate",
+									"modifier": -2
+								}
+							],
+							"calc": {
+								"damage": "thr cut"
+							}
+						}
+					],
+					"calc": {
+						"points": 5
+					}
+				},
+				{
+					"id": "tOeRk8-COpA6KaNag",
+					"name": "Teeth, Sharp",
+					"reference": "DFA43",
+					"tags": [
+						"Advantage",
+						"Exotic",
+						"Physical"
+					],
+					"base_points": 1,
+					"weapons": [
+						{
+							"id": "w-7pzkZIaNCnPcP4O",
+							"damage": {
+								"type": "cut",
+								"st": "thr",
+								"base": "-1"
+							},
+							"usage": "Bite",
+							"reach": "C",
+							"defaults": [
+								{
+									"type": "skill",
+									"name": "Brawling"
+								},
+								{
+									"type": "dx"
+								}
+							],
+							"calc": {
+								"damage": "thr-1 cut"
+							}
+						}
+					],
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "tW9Ehf_YMcuuH9uGY",
+					"name": "Tough Skin",
+					"reference": "DFA16",
+					"tags": [
+						"Advantage",
+						"Exotic",
+						"Physical"
+					],
+					"points_per_level": 3,
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"skull"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"face"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"neck"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"torso"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"vitals"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"groin"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"arm"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"hand"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"leg"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"foot"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"tail"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"wing"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"fin"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"brain"
+							],
+							"amount": 1,
+							"per_level": true
+						}
+					],
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": 3
+					}
+				},
+				{
+					"id": "tWGMX3X6X8UUUP9WM",
+					"name": "Greed",
+					"reference": "DFA60",
+					"tags": [
+						"Disadvantage",
+						"Mental"
+					],
+					"cr": 12,
+					"base_points": -15,
+					"calc": {
+						"points": -15
+					}
+				},
+				{
+					"id": "tWQ9qkeBkn6A1MzT1",
+					"name": "Restricted Diet",
+					"notes": "Meat",
+					"tags": [
+						"Physical"
+					],
+					"base_points": -10,
+					"calc": {
+						"points": -10
+					}
+				},
+				{
+					"id": "tCFp-KaUKmf51whWu",
+					"name": "Feature: Scales of blue, red, green, black, white, or multiple colored patterns.",
+					"tags": [
+						"Physical"
+					],
+					"calc": {
+						"points": 0
+					}
+				}
+			],
+			"calc": {
+				"points": 20
+			}
+		},
+		{
+			"id": "TL5TGo1cycScoCT6N",
+			"name": "Dragon-Blooded Gifts",
+			"children": [
+				{
+					"id": "tzN4bUbKW9Ho2RWoM",
+					"name": "Elemental Resistance",
+					"tags": [
+						"Physical"
+					],
+					"points_per_level": 4,
+					"can_level": true,
+					"levels": 3,
+					"calc": {
+						"points": 12
+					}
+				},
+				{
+					"id": "tebi-q79bvI3168h6",
+					"name": "Temperature Tolerance (Hot)",
+					"reference": "DFA16",
+					"tags": [
+						"Advantage",
+						"Physical"
+					],
+					"points_per_level": 1,
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "tID8a_N-DDhtdyNAt",
+					"name": "Temperature Tolerance (Cold)",
+					"reference": "DFA16",
+					"tags": [
+						"Advantage",
+						"Physical"
+					],
+					"points_per_level": 1,
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": 1
+					}
+				}
+			],
+			"calc": {
+				"points": 14
+			}
+		}
+	],
+	"skills": [
+		{
+			"id": "sgZC04aROEcbD8U2s",
+			"name": "Innate Attack",
+			"reference": "DFA79",
+			"tags": [
+				"Combat",
+				"Ranged Combat",
+				"Weapon"
+			],
+			"specialization": "Breath",
+			"difficulty": "dx/e",
+			"defaults": [
+				{
+					"type": "dx",
+					"modifier": -4
+				},
+				{
+					"type": "skill",
+					"name": "Innate Attack",
+					"modifier": -2
+				}
+			],
+			"points": 1
+		}
+	]
+}

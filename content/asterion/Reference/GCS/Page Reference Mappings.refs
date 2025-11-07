@@ -1,0 +1,22 @@
+{
+	"B": {
+		"path": "/Users/MGasto000/GCS/GURPS 4th/Official/GURPS 4th - Basic Set.pdf",
+		"offset": 2
+	},
+	"BX": {
+		"path": "/Users/MGasto000/GCS/GURPS 4th/Official/GURPS 4th - Basic Set.pdf",
+		"offset": 4
+	},
+	"HT": {
+		"path": "/Users/MGasto000/GCS/GURPS 4th/Official/GURPS 4th - High Tech.pdf",
+		"offset": 1
+	},
+	"M": {
+		"path": "/Users/MGasto000/GCS/GURPS 4th/Official/GURPS 4th - Magic.pdf",
+		"offset": 2
+	},
+	"MA": {
+		"path": "/Users/MGasto000/GCS/GURPS 4th/Official/GURPS 4th - Martial Arts.pdf",
+		"offset": 1
+	}
+}

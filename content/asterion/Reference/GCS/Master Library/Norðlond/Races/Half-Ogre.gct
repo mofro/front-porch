@@ -1,0 +1,478 @@
+{
+	"version": 5,
+	"id": "BGtB7Oh1Te-1LbLlt",
+	"traits": [
+		{
+			"id": "TCgjE6eMgPbUoHGB-",
+			"name": "Half-Ogre",
+			"reference": "DFA44",
+			"ancestry": "Human",
+			"container_type": "ancestry",
+			"children": [
+				{
+					"id": "tG4DkJak81bv7idlu",
+					"name": "Increased Strength",
+					"reference": "DFA8",
+					"tags": [
+						"Advantage",
+						"Attribute",
+						"Physical"
+					],
+					"points_per_level": 10,
+					"features": [
+						{
+							"type": "attribute_bonus",
+							"attribute": "st",
+							"amount": 1,
+							"per_level": true
+						}
+					],
+					"can_level": true,
+					"levels": 4,
+					"calc": {
+						"points": 40
+					}
+				},
+				{
+					"id": "tFySey55BALHODC5p",
+					"name": "Decreased Intelligence",
+					"reference": "DFA8",
+					"tags": [
+						"Attribute",
+						"Disadvantage",
+						"Mental"
+					],
+					"points_per_level": -20,
+					"features": [
+						{
+							"type": "attribute_bonus",
+							"attribute": "iq",
+							"amount": -1,
+							"per_level": true
+						}
+					],
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": -20
+					}
+				},
+				{
+					"id": "tpfpeG4P8-pzs_FZT",
+					"name": "Increased Health",
+					"reference": "DFA9",
+					"tags": [
+						"Advantage",
+						"Attribute",
+						"Physical"
+					],
+					"points_per_level": 10,
+					"features": [
+						{
+							"type": "attribute_bonus",
+							"attribute": "ht",
+							"amount": 1,
+							"per_level": true
+						}
+					],
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": 10
+					}
+				},
+				{
+					"id": "thFtZUwhYxVlzElZS",
+					"name": "Fearlessness",
+					"reference": "DFA49",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"points_per_level": 2,
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": 2
+					}
+				},
+				{
+					"id": "tSKzjUbRU52jY-wOM",
+					"name": "Night Vision",
+					"reference": "DFA51",
+					"tags": [
+						"Advantage",
+						"Physical"
+					],
+					"points_per_level": 1,
+					"can_level": true,
+					"levels": 3,
+					"calc": {
+						"points": 3
+					}
+				},
+				{
+					"id": "taYhZhcR5BdioBl5i",
+					"name": "Tough Skin",
+					"reference": "DFA16",
+					"tags": [
+						"Advantage",
+						"Exotic",
+						"Physical"
+					],
+					"points_per_level": 3,
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"skull"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"face"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"neck"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"torso"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"vitals"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"groin"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"arm"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"hand"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"leg"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"foot"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"tail"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"wing"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"fin"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"brain"
+							],
+							"amount": 1,
+							"per_level": true
+						}
+					],
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": 3
+					}
+				},
+				{
+					"id": "tqpMOP4nx6ECsCdjx",
+					"name": "Appearance",
+					"reference": "DFA56",
+					"tags": [
+						"Advantage",
+						"Physical"
+					],
+					"modifiers": [
+						{
+							"id": "msgbN4Ib64tjNeidw",
+							"name": "Ugly",
+							"cost": -8,
+							"cost_type": "points"
+						}
+					],
+					"calc": {
+						"points": -8
+					}
+				},
+				{
+					"id": "t1pLus2uectRuPGOI",
+					"name": "Social Stigma (Savage)",
+					"reference": "DFA66",
+					"notes": "-2 reaction; -4 to skills; Denied entry to town on 6 or less",
+					"tags": [
+						"Disadvantage",
+						"Social"
+					],
+					"base_points": -10,
+					"calc": {
+						"points": -10
+					}
+				}
+			],
+			"calc": {
+				"points": 20
+			}
+		},
+		{
+			"id": "Txz1Jo7jfpP1Rg48m",
+			"name": "Half-Ogre Gifts",
+			"children": [
+				{
+					"id": "tOmh1t2SunlMXJPjr",
+					"name": "Tough Skin",
+					"reference": "DFA16",
+					"tags": [
+						"Advantage",
+						"Exotic",
+						"Physical"
+					],
+					"points_per_level": 3,
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"skull"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"face"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"neck"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"torso"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"vitals"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"groin"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"arm"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"hand"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"leg"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"foot"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"tail"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"wing"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"fin"
+							],
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"brain"
+							],
+							"amount": 1,
+							"per_level": true
+						}
+					],
+					"can_level": true,
+					"levels": 2,
+					"calc": {
+						"points": 6
+					}
+				},
+				{
+					"id": "tQBiTEa6Rya2mf8uN",
+					"name": "Fearlessness",
+					"reference": "DFA49",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"points_per_level": 2,
+					"can_level": true,
+					"levels": 2,
+					"calc": {
+						"points": 4
+					}
+				},
+				{
+					"id": "tq-A7Pwc6jNNh2ABu",
+					"name": "Unfazeable",
+					"reference": "DFA53",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"base_points": 15,
+					"calc": {
+						"points": 15
+					}
+				},
+				{
+					"id": "tB1Shs1VYz0PfnNtu",
+					"name": "Magic Resistance",
+					"reference": "DFA51",
+					"tags": [
+						"Advantage",
+						"Physical"
+					],
+					"points_per_level": 2,
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": 2
+					}
+				},
+				{
+					"id": "tSVXzaZ_Qr9mqfh7j",
+					"name": "Eh, That's Just Grug",
+					"notes": "Eliminates penalties for Social Stigma (Savage) in any town that you've spent at least one week in after a succesful adventure.",
+					"tags": [
+						"Physical"
+					],
+					"base_points": 8,
+					"calc": {
+						"points": 8
+					}
+				}
+			],
+			"calc": {
+				"points": 35
+			}
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+  "services": [
+    {
+      "name": "GitHub Pages",
+      "type": "hosting",
+      "url": "https://mofro.github.io/front-porch",
+      "source": "GitHub Actions",
+      "purpose": "Static Quartz site hosting via GitHub Pages",
+      "note": "CNAME file contains 'front-porch.digitalgardeningcollective.com' — inherited from upstream template fork. DNS for this domain is not controlled by mofro. Either remove the CNAME file or add a DNS record to avoid GitHub Pages domain verification errors. Live content is served from mofro.github.io/front-porch/ regardless."
+    }
+  ]
+}

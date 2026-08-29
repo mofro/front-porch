@@ -223,4 +223,16 @@ Here are the frontmatter fields that are unique to Front Porch:
 | tech | List      | The technology that was used for the project. |
 | tools | List      | The tools that were used for the project. |
 | duration | Text      | The duration of the project. |
+
+---
+
+## Infrastructure
+
+| Service | Identifier | Purpose |
+|---|---|---|
+| GitHub Pages | `mofro.github.io/front-porch` | Static Quartz site via GitHub Actions |
+
+**⚠ Known issue:** The `CNAME` file contains `front-porch.digitalgardeningcollective.com` — inherited from the upstream template fork. DNS for this domain is not controlled by this account. Remove the `CNAME` file to avoid GitHub Pages domain verification errors. Content is served from `mofro.github.io/front-porch/` regardless.
+
+Full details in [`services.json`](services.json).
 | role | List      | The roles that you had while working on the project. |
